@@ -1,5 +1,5 @@
 ﻿{
-    "name": "Whimsaland: World of Wonder",
+    "name": "",
     "formats": "Booster Draft",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -6287,5 +6287,5 @@
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }
