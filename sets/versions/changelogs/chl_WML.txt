@@ -1,4 +1,598 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Gift Table
+
+Silly Goose
+
+Sneak a Peek
+
+Threadbare Dolly
+
+Bump the Shelf
+
+Uncaring Recipient
+
+Fracturing Figurine
+
+Rethink
+
+Kick Sand
+
+Collaborate
+
+Walkie-Talkie
+
+Unnecessary Protectors
+
+Clueless Tax Collector
+
+Frightened Steed
+
+Tactical Falcon
+
+Lazy Wisp
+
+Aggressive Calming
+
+Caring Company
+
+Prim Pal
+
+Party Popper
+
+Cake Inspector
+
+Scold
+
+Unstable Jitterer
+
+Meek Assistant
+
+Behavioral Analysis
+
+Swell Rider
+
+Careless Wayfarer
+
+Versatile Matey
+
+Puddle Diver
+
+Muddy Mystic
+
+Dazzling Opulence
+
+Precise Planner
+
+Sweet Dreams
+
+Swooping Crescendo
+
+Vehement Gardener
+
+Shut Up
+
+Jeering Backup
+
+Antagonizing Acquaintance
+
+Hamfisted Hogger
+
+Ungrateful Snob
+
+Jealous Doll
+
+Guided Dissection
+
+Forced to Forget
+
+Scavenging Oildrinker
+
+Roughhouser's Revel
+
+Antsy Showboater
+
+Find Your Moment
+
+Infested Guest
+
+Delicious!
+
+Entree Course
+
+Standoffish Softie
+
+Petty Punishment
+
+Slap
+
+Gossip Girl
+
+Spine Tingler
+
+Running Blind
+
+Frightening Friend
+
+Think, Think!
+
+Blastfire Buddy
+
+A Little Too Loud
+
+Overstuffed Cannon
+
+Capricious Greedmonger
+
+Heavy-Handing
+
+Tryharding Tumbler
+
+Titan Goader
+
+Whirling Knifestorm
+
+Aspiring Tyrant
+
+Dangerous Idea
+
+Dynamite Dino
+
+Bonk
+
+Laughing Hypocrite
+
+Mocking Musician
+
+Bribed Authority
+
+Scarred Braggart
+
+Painful Memory
+
+Brash Buddy
+
+Drop Point
+
+Leafage Lineup
+
+Leafy Launcher
+
+Propogating Lichen
+
+Earthen Admiration
+
+Treehome Greenhouse
+
+Natural Green Thumb
+
+Appetizer Course
+
+Fragrant Stinkbug
+
+Honeypot
+
+Oblivious Brontosaur
+
+Believe In Yourself
+
+Growing Trike
+
+Camouflaged Squad
+
+Adaman Charger
+
+Snack Supplier
+
+Make Something New
+
+Bursting Sac
+
+Calming Companion
+
+Pet Rock
+
+Great Stick
+
+Lightning Strike Kite
+
+Telekaleidoscope
+
+Faded Memory
+
+Cloudscape
+
+Seascape
+
+Murkscape
+
+Sunscape
+
+Greenscape
+
+Festive Plaza
+
+Immaculate Halls
+
+Scorched Fields
+
+Brilliant Canopy
+
+Sinister Laboratory
+
+Ramshackle Lair
+
+Muddy Trail
+
+Epic Arena
+
+Putrid Backwood
+
+Unruly Grasslands
+
+Well-Meaning Mastiff
+
+Gift-Wrapped
+
+Collection Cabinet
+
+Feathered Escort
+
+Make It Louder
+
+Treehome Troopers
+
+Head In The Clouds
+
+Underwhelming Surprise
+
+Blueprint Messenger
+
+Huggable Goofball
+
+Pleasant Surprise
+
+Insidious Idea
+
+Put In Timeout
+
+Pentapunk
+
+Blatant Bribery
+
+Head In The Mud
+
+Refresh
+
+Reconnaissance Birds
+
+Mine To Keep
+
+Amused Onlooker
+
+Spoiled Surprise
+
+Sentimental Mainstay
+
+Mine To Break
+
+Shadowy Remnant
+
+Jagged Monstrosity
+
+Gregarious Garcon
+
+Indecisive Sampler
+
+Deceitful Generosity
+
+Disingenuous Friend
+
+Face Your Fears
+
+Lightning-Breathing Dragon
+
+Adaman Scrounger
+
+Mine To Burn
+
+Desperate Brawler
+
+Competitive Headbutter
+
+Face the Flames
+
+Crumbling Wanderer
+
+Make It Faster
+
+Stunting Pteranodon
+
+Headway
+
+Knock Some Sense Into You
+
+Distraction Tactics
+
+Water The Roots
+
+Face the Feast
+
+Eyes Bigger Than Your Stomach
+
+Make It Bigger
+
+Head In The Trees
+
+Trunk-Legged Treehouse
+
+Harmless Moth
+
+Unwanted Reminder
+
+Absent-Minded Acquaintance
+
+Figmatog
+
+Cardboard Fortress
+
+Pocket Sand
+
+Weathered Portal
+
+Scaredy Kitten
+
+Party Planner
+
+Tumbling Porcelain
+
+Imperfection Repurposer
+
+Campfire Mystic
+
+Big Imagination
+
+Gain The Edge
+
+Toy Catapult
+
+Pull At The Legs
+
+Scattered Thought
+
+Grab An Armful
+
+Flyby Razer
+
+Mudsculptor
+
+Muckballer
+
+Taunting Jockey
+
+Dramatic Entrance
+
+Plump Bloatfly
+
+Lethargic Glutton
+
+Lost Hatchling
+
+Adaman Tyrannosaur
+
+Improvising Accountant
+
+Kukkyonan Throneguard
+
+Site Surveyor
+
+Cooperative Builder
+
+Ambitious Twins
+
+Exuberant Orator
+
+Ruthless Bully
+
+Cajoled Accomplice
+
+Push Yourself
+
+Safety Blanket
+
+Artsy Giftmaker
+
+Hulking Repairdoll
+
+Play-Worn Soldier
+
+Storied Superstition
+
+Each Treehouse A Home
+
+Reassuring Pat
+
+Isolating Decree
+
+Augusta, Vigilant Chaperone
+
+Regifting Guest
+
+Formaldehyde Soak
+
+Envious Windsailor
+
+Caked Gunk Thrower
+
+Kukkyonan Moatguard
+
+Fond Memory
+
+Humiliating Demand
+
+Toothy, Consuming Thought
+
+Clumsy Admirer
+
+Sadistic Assistant
+
+Watch The Explosions
+
+Squish The Guts
+
+Excessive Wealth
+
+Overcoming Fear
+
+Life-Saving Warning
+
+Harold, the Un-Forgotten
+
+Pestering Fiddler
+
+Fight Rigger
+
+Adaman Nestguard
+
+Dreaming Dino
+
+Imagine Anything
+
+Ruthless Exploiter
+
+Energizing Cheer
+
+Plargg, Still Spry
+
+Mesmerizing Fractal
+
+Megamuckfish
+
+Golodoff Broodmother
+
+Thoughtful Triceratops
+
+Fresh Ideas
+
+Lasting Trauma
+
+Rising Chorus
+
+Pir, Wielder Of Whimsy
+
+Creative Block
+
+Bottled Possibility
+
+Flags of Whimsy
+
+Yelena, Gift-Giver
+
+Austrin, Perfectionist
+
+Jaax, Excitable Prodigy
+
+Stephen, Toybox Commander
+
+Catherine, Too Curious
+
+Jodie, Flashy Plunderer
+
+Mahaba, Gentle Yet Giant
+
+Minia, Crashing Through
+
+Darren, Bug Gourmand
+
+Salvatore, Wild Rancher
+
+Regal Realm
+
+Verdant Realm
+
+Torrential Realm
+
+Untamed Realm
+
+Ravenous Realm
+
+Grand Stampede Leader
+
+Distractible Regimen
+
+Concept of the Protector
+
+Warden of the Gift Pile
+
+Mudslide
+
+Concept of the Bully
+
+Emboldening Coach
+
+Cruel Prankster
+
+Concept of the Monster
+
+Remember Everything
+
+Immersion Therapist
+
+Concept of the Playmate
+
+Nature Walk
+
+Growing Home
+
+Concept of the Caretaker
+
+Tsukon, Prideful Monarch
+
+Sean, Caroling Protector
+
+Shavida, Friend-Maker
+
+Carla, Head of the Cliques
+
+Gene, Surrounded by Terror
+
+Quintorious, Mind Alight
+
+Figmata, Bringer of Whimsy
+
+The Forgetting
+
+Figment
+
+Toy Soldier
+
+Treasure
+
+Forest Elemental
+
+Appetizer
+
+Spider
+
+Copy
+
+Entree
+
+Insect Horror
+
+Dinosaur
+
+Dog Knight
+
+Food
+
+Head of the Cliques
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.
