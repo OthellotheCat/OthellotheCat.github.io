@@ -1,4 +1,156 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Sleepy Streamfish added.
+Slippery Muckfry added.
+Muckspitter added.
+Gunk Swimmer added.
+
+Lazy Wisp removed.
+Vehement Gardener removed.
+Muckballer removed.
+Caked Gunk Thrower removed.
+
+Unnecessary Protectors
+type: Creature — Human => Creature — Toy Soldier
+rules_text: When this creature enters, return another target permanent you control to its owner's hand. If you do, create a 1/1 white and green Toy Soldier artifact creature token. => When this creature enters, return another permanent you control to its owner's hand. If you do, Nurture a Toy Soldier. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i]
+
+Puddle Diver
+type: Creature — Figment => Creature — Elemental Fish
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, the next land you tap for mana adds an additional {U}. => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Nurture an Elemental Fish. [i](Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token.)[/i]
+pt: 2/1 => 1/2
+
+Muddy Mystic
+rules_text: When this creature enters, if you control two or more untapped lands, tap target creature an opponent controls and put a stun counter on it. => When this creature enters, tap target creature. If you control two or more untapped lands, Nurture an Elemental Fish. [i](Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token.)[/i]
+
+Think, Think!
+rules_text: Choose one:
+- Imagine 1, then imagine 1.[i] [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors.Then do it again. When one of those creatures deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus {1} to cast it.)[/i][/i]
+- Creatures target player controls get +2/+0 until end of turn. => Choose one:
+- Imagine 1, then imagine 1.[i] [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”. Then do it again.)[/i][/i]
+- Creatures target player controls get +2/+0 until end of turn.
+
+Aspiring Tyrant
+rules_text: As an additional cost to cast this spell, discard a card.
+When this creature enters, imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 1 to cast it.)[/i] => As an additional cost to cast this spell, discard a card.
+When this creature enters, imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Dangerous Idea
+rules_text: Imagine 2. Then, target creature you control gets +2/+0 and gains haste until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 2 to cast it.)[/i] => Imagine 2. Then, target creature you control gets +2/+0 and gains haste until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Bonk
+rules_text: Bonk deals 5 damage to target creature. Imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 3 to cast it.)[/i] => Bonk deals 5 damage to target creature. Imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Leafage Lineup
+rules_text: Create two 1/1 white and green Toy Soldier artifact creature tokens. Then, target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn. => Nurture a Toy Soldier twice. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a tapped 1/1 white and green Toy Soldier artifact creature token. Then do it again.)[/i]
+Target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn.
+
+Propogating Lichen
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, the next land you tap for mana adds an additional {G}. => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, the next land you tap for mana this turn adds an additional {G}.
+pt: 1/2 => 2/1
+
+Natural Green Thumb
+rules_text: When this creature dies, create two tapped 1/1 green Forest Elemental creature tokens. => When this creature dies, Nurture a tapped Forest Elemental twice. [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token. Then do it again.)[/i] [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i]
+
+Camouflaged Squad
+rules_text: When this creature enters, create a 1/1 white and green Toy Soldier artifact creature token.
+{5}: Creatures you control get +1/+1 until end of turn. => When this creature enters, Nurture a Toy Soldier. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i]
+{5}: Creatures you control get +1/+1 until end of turn.
+
+Make Something New
+rules_text: Destroy target artifact or enchantment. If you were its controller, imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 3 to cast it.)[/i] => Destroy target artifact or enchantment. If you were its controller, imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Make It Louder
+rules_text: Imagine 3. Then, creatures you control get +2/+0 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 3 to cast it.)[/i] => Imagine 3. Then, creatures you control get +2/+0 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Treehome Troopers
+rules_text: Vigilance
+When this creature enters, create a 1/1 white and green Toy Soldier artifact creature token. => Vigilance
+When this creature enters, Nurture a Toy Soldier. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i]
+
+Make It Faster
+rules_text: Imagine 3. Then, creatures you control gain haste until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 3 to cast it.)[/i] => Imagine 3. Then, creatures you control gain haste until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Make It Bigger
+rules_text: Imagine 3. Then, creatures you control get +0/+3 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 3 to cast it.)[/i] => Imagine 3. Then, creatures you control get +0/+3 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Trunk-Legged Treehouse
+rules_text: Reach
+The first time another creature you control dies each turn, create a tapped 1/1 green Forest Elemental land creature token. => Reach
+The first time another creature you control dies each turn, Nurture a tapped Forest Elemental. [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i]
+
+Big Imagination
+rules_text: Imagine X, then imagine X. [i](Put the top card of your library face down as an X/1 Figment creature that's all colors.Then do it again. When one of those creatures deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus {X} to cast it.)[/i] => Imagine X, then imagine X. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”. Then do it again.)[/i]
+
+Gain The Edge
+rules_text: If an opponent has at least three more creatures than you, you may cast this spell as though it had flash.
+Create four 1/1 white and green Toy Soldier artifact creature tokens. => If an opponent has at least three more creatures than you, you may cast this spell as though it had flash.
+Nurture a Toy Soldier four times. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token. Then do it three more times.)[/i]
+
+Mudsculptor
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Choose one:
+- Create a tapped 1/1 green Forest Elemental creature token.
+- You may play an additional land this turn. => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Choose one:.
+- You may play an additional land this turn.
+- Nurture a tapped Forest Elemental. [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i]
+
+Site Surveyor
+rules_text: {1}, {T}: Create a 1/1 white and green Toy Soldier artifact creature token. Activate only if a land entered under your control this turn. => {1}, {T}: Nurture a Toy Soldier. Activate only if a land entered under your control this turn. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i]
+
+Cooperative Builder
+rules_text: Affinity for creature tokens.
+When this creature enters, Choose one:
+- Untap two target lands.
+- Create a tapped 1/1 green Forest Elemental land creature token. => Affinity for creature tokens.
+When this creature enters, Choose one:
+- Untap two target lands.
+- Nurture an Elemental Fish twice. [i](Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token. Then do it again.)[/i]
+
+Ambitious Twins
+rules_text: When this creature enters, create a 2/2 green Dinosaur creature token.
+{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. [i](Put the top card of your library face down as a 6/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 6 to cast it.)[/i] => When this creature enters, create a 2/2 green Dinosaur creature token.
+{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. [i](Put the top card of your library face down as a 6/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Each Treehouse A Home
+rules_text: Create a 1/1 white and green Toy Soldier artifact creature token for each untapped land you control. => For each untapped land you control, Nurture a Toy Soldier.
+
+Megamuckfish
+rules_text: Trample
+Land creatures you control get +3/+3 and have trample and vigilance.
+Whenever a noncreature land you control enters, create a tapped 1/1 green Forest Elemental land creature token. => Trample
+Land creatures you control get +3/+3 and have trample and vigilance.
+Whenever a noncreature land you control enters, Nurture a tapped Forest Elemental.
+
+Jaax, Excitable Prodigy
+rules_text: Whenever you cast an instant or sorcery spell, if you spent mana equal to its mana value to cast it, you may exile it instead of putting it into your graveyard as it resolves with three time counters and give it suspend if it does not have it. If you do, imagine X, where X is the exiled spell's mana value. [i](Put the top card of your library face down as a X/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus X to cast it.)[/i] => Whenever you cast an instant or sorcery spell, if you spent mana equal to its mana value to cast it, you may exile it instead of putting it into your graveyard as it resolves with three time counters and give it suspend if it does not have it. If you do, imagine X, where X is the exiled spell's mana value. [i](Put the top card of your library face down as a X/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+
+Stephen, Toybox Commander
+rules_text: First strike
+At the beginning of combat on your turn, create X 1/1 white and green Toy Soldier artifact creature tokens, where X is the number of creatures that entered this turn. => First strike
+At the beginning of combat on your turn, for each creature that entered this turn, Nurture a Toy Soldier. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i]
+
+Mahaba, Gentle Yet Giant
+rules_text: Flash
+The first time Mahaba or another creature with mana value 4 or greater you control enters on each of your turns, create a tapped 1/1 green Forest Elemental land creature token.
+At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater. => Flash
+The first time Mahaba or another creature with mana value 4 or greater you control enters on each of your turns, Nurture a tapped Forest Elemental.
+At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater.
+
+Salvatore, Wild Rancher
+rules_text: Trample
+At the beginning of your upkeep, imagine 4. [i](Put the top card of your library face down as a 4/1 Figment creature that's all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card's mana cost minus 4 to cast it.)[/i]
+Other creatures you control with power 4 or greater get +0/+3 and have trample. => Trample
+At the beginning of your upkeep, imagine 4. [i](Put the top card of your library face down as a 4/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+Other creatures you control with power 4 or greater get +0/+3 and have trample.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

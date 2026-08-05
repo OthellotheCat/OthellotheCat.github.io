@@ -5,7 +5,7 @@
 			<name>WML</name>
 			<longname>Whimsaland: World of Wonder</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-04</releasedate>
+			<releasedate>2026-08-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -31,7 +31,7 @@
 When this creature enters, tap target creature.
 When this creature leaves the battlefield, put a stun counter on up to one target creature.
 Surprise {1}{W} (You may pay {1}{W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/1.png" num="30">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/1.png" num="29">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -136,7 +136,7 @@ Surprise {1}{W} (You may pay {1}{W} to put this card onto the battlefield from y
 		<card>
 			<name>Rethink</name>
 			<text>Target creature gets +1/+3 until end of turn. If the creature is a Figment, draw a card.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/7.png" num="29">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/7.png" num="28">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -202,12 +202,12 @@ Equip {1}</text>
 		</card>
 		<card>
 			<name>Unnecessary Protectors</name>
-			<text>When this creature enters, return another target permanent you control to its owner&apos;s hand. If you do, create a 1/1 white and green Toy Soldier artifact creature token.</text>
+			<text>When this creature enters, return another permanent you control to its owner&apos;s hand. If you do, Nurture a Toy Soldier. (Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/11.png" num="38">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human</type>
+				<type>Creature — Toy Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>W</manacost>
 				<cmc>1</cmc>
@@ -274,13 +274,13 @@ Surprise {W} (You may pay {W} to put this card onto the battlefield from your ha
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Lazy Wisp</name>
+			<name>Sleepy Streamfish</name>
 			<text>This creature enters tapped with a stun counter.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/15.png" num="24">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/15.png" num="30">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elemental</type>
+				<type>Creature — Elemental Fish</type>
 				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
@@ -326,7 +326,7 @@ Create two 2/2 green Dinosaur creature tokens.</text>
 		<card>
 			<name>Prim Pal</name>
 			<text>{T}, Sacrifice this creature: Add {W}, {U} or {B}.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/18.png" num="27">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/18.png" num="26">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -399,7 +399,7 @@ Surprise {U} (You may pay {U} to put this card onto the battlefield from your ha
 			<name>Unstable Jitterer</name>
 			<text>When this creature enters, discard a card. If this creature was cast from exile, target opponent also discards a card.
 Timeout — You have not discarded a card this turn. (If you discard this card, you may discard it into exile. As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/22.png" num="77">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/22.png" num="78">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -450,7 +450,7 @@ Timeout — You control one or more creatures. (If you discard this card, you ma
 		<card>
 			<name>Swell Rider</name>
 			<text>As long as you have five or more cards in hand, this creature get +1/+1 and can&apos;t be blocked.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/25.png" num="74">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/25.png" num="75">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -468,7 +468,7 @@ Timeout — You control one or more creatures. (If you discard this card, you ma
 			<name>Careless Wayfarer</name>
 			<text>{U}, {T}, Discard a card: Scry 1, then draw a card.
 Timeout — You have discarded two or more cards this turn. (If you discard this card, you may discard it into exile. As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/26.png" num="47">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/26.png" num="46">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -502,24 +502,24 @@ Timeout — You have discarded two or more cards this turn. (If you discard this
 		<card>
 			<name>Puddle Diver</name>
 			<text>As an additional cost to cast this spell, tap an untapped creature you control.
-When this creature enters, the next land you tap for mana adds an additional {U}.</text>
+When this creature enters, Nurture an Elemental Fish. (Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/28.png" num="66">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Figment</type>
+				<type>Creature — Elemental Fish</type>
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Muddy Mystic</name>
-			<text>When this creature enters, if you control two or more untapped lands, tap target creature an opponent controls and put a stun counter on it.</text>
+			<text>When this creature enters, tap target creature. If you control two or more untapped lands, Nurture an Elemental Fish. (Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/29.png" num="60">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -537,7 +537,7 @@ When this creature enters, the next land you tap for mana adds an additional {U}
 		<card>
 			<name>Dazzling Opulence</name>
 			<text>Reveal the top card of your library, then choose target artifact, creature or enchantment spell. If the revealed card costs more than the target spell, counter it. Otherwise, counter target spell unless its controller pays {1}.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/30.png" num="49">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/30.png" num="48">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -570,7 +570,7 @@ When this creature enters, the next land you tap for mana adds an additional {U}
 		<card>
 			<name>Sweet Dreams</name>
 			<text>Counter target creature spell. Scry 2.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/32.png" num="73">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/32.png" num="74">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -588,7 +588,7 @@ When this creature enters, the next land you tap for mana adds an additional {U}
 			<text>Flying
 When this creature enters, if you control another creature named Swooping Crescendo, tap target creature. Then if you control four or more other creatures named Swooping Crescendo, put a stun counter on all tapped creatures target opponent controls.
 A deck can have any number of cards named Swooping Crescendo.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/33.png" num="75">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/33.png" num="76">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -603,14 +603,14 @@ A deck can have any number of cards named Swooping Crescendo.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Vehement Gardener</name>
+			<name>Slippery Muckfry</name>
 			<text>Flying
 When this creature leaves the battlefield, untap up to two target lands.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/34.png" num="78">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/34.png" num="73">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Figment</type>
+				<type>Creature — Elemental Fish</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
@@ -1002,7 +1002,7 @@ Enchanted creature has &quot;Pay 3 life: Untap this creature. Activate only once
 		<card>
 			<name>Think, Think!</name>
 			<text>Choose one:
-- Imagine 1, then imagine 1. (Put the top card of your library face down as a 1/1 Figment creature that&apos;s all colors.Then do it again. When one of those creatures deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus {1} to cast it.)
+- Imagine 1, then imagine 1. (Put the top card of your library face down as a 1/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;. Then do it again.)
 - Creatures target player controls get +2/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/57.png" num="157">WML</set>
 			<prop>
@@ -1157,7 +1157,7 @@ This creature gets +2/+1 if you have beaten the dare.</text>
 		<card>
 			<name>Aspiring Tyrant</name>
 			<text>As an additional cost to cast this spell, discard a card.
-When this creature enters, imagine 1. (Put the top card of your library face down as a 1/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 1 to cast it.)</text>
+When this creature enters, imagine 1. (Put the top card of your library face down as a 1/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/66.png" num="123">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1174,7 +1174,7 @@ When this creature enters, imagine 1. (Put the top card of your library face dow
 		</card>
 		<card>
 			<name>Dangerous Idea</name>
-			<text>Imagine 2. Then, target creature you control gets +2/+0 and gains haste until end of turn. (Put the top card of your library face down as a 2/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 2 to cast it.)</text>
+			<text>Imagine 2. Then, target creature you control gets +2/+0 and gains haste until end of turn. (Put the top card of your library face down as a 2/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/67.png" num="132">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1209,7 +1209,7 @@ This creature gets +3/+3 if you have beaten the dare.</text>
 		</card>
 		<card>
 			<name>Bonk</name>
-			<text>Bonk deals 5 damage to target creature. Imagine 3. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 3 to cast it.)</text>
+			<text>Bonk deals 5 damage to target creature. Imagine 3. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/69.png" num="125">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1348,7 +1348,8 @@ At the beginning of your upkeep, pay 2 life or sacrifice this creature.</text>
 		</card>
 		<card>
 			<name>Leafage Lineup</name>
-			<text>Create two 1/1 white and green Toy Soldier artifact creature tokens. Then, target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn.</text>
+			<text>Nurture a Toy Soldier twice. (Put a +1/+1 counter on target Toy Soldier you control, or create a tapped 1/1 white and green Toy Soldier artifact creature token. Then do it again.)
+Target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/77.png" num="183">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1383,7 +1384,7 @@ When this creature enters, if you control a creature token or face-down creature
 		<card>
 			<name>Propogating Lichen</name>
 			<text>As an additional cost to cast this spell, tap an untapped creature you control.
-When this creature enters, the next land you tap for mana adds an additional {G}.</text>
+When this creature enters, the next land you tap for mana this turn adds an additional {G}.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/79.png" num="193">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1394,7 +1395,7 @@ When this creature enters, the next land you tap for mana adds an additional {G}
 				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>1/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1435,7 +1436,7 @@ When this creature enters, the next land you tap for mana adds an additional {G}
 		</card>
 		<card>
 			<name>Natural Green Thumb</name>
-			<text>When this creature dies, create two tapped 1/1 green Forest Elemental creature tokens.</text>
+			<text>When this creature dies, Nurture a tapped Forest Elemental twice. (Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token. Then do it again.) (Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/82.png" num="189">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1556,7 +1557,7 @@ Target creature gets +3/+3 until end of turn. If you have beaten the dare, inste
 		</card>
 		<card>
 			<name>Camouflaged Squad</name>
-			<text>When this creature enters, create a 1/1 white and green Toy Soldier artifact creature token.
+			<text>When this creature enters, Nurture a Toy Soldier. (Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)
 {5}: Creatures you control get +1/+1 until end of turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/89.png" num="166">WML</set>
 			<prop>
@@ -1609,7 +1610,7 @@ Target creature gets +3/+3 until end of turn. If you have beaten the dare, inste
 		</card>
 		<card>
 			<name>Make Something New</name>
-			<text>Destroy target artifact or enchantment. If you were its controller, imagine 3. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 3 to cast it.)</text>
+			<text>Destroy target artifact or enchantment. If you were its controller, imagine 3. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/92.png" num="186">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2063,8 +2064,8 @@ Attacking creature tokens and face-down creatures you control have flying.
 		</card>
 		<card>
 			<name>Make It Louder</name>
-			<text>Imagine 3. Then, creatures you control get +2/+0 until end of turn. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 3 to cast it.)</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/119.png" num="25">WML</set>
+			<text>Imagine 3. Then, creatures you control get +2/+0 until end of turn. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/119.png" num="24">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2080,7 +2081,7 @@ Attacking creature tokens and face-down creatures you control have flying.
 		<card>
 			<name>Treehome Troopers</name>
 			<text>Vigilance
-When this creature enters, create a 1/1 white and green Toy Soldier artifact creature token.</text>
+When this creature enters, Nurture a Toy Soldier. (Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/120.png" num="35">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2642,7 +2643,7 @@ Menace</text>
 		</card>
 		<card>
 			<name>Make It Faster</name>
-			<text>Imagine 3. Then, creatures you control gain haste until end of turn. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 3 to cast it.)</text>
+			<text>Imagine 3. Then, creatures you control gain haste until end of turn. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/152.png" num="146">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2778,7 +2779,7 @@ Choose one. If you have beaten the dare, you may choose both:
 		</card>
 		<card>
 			<name>Make It Bigger</name>
-			<text>Imagine 3. Then, creatures you control get +0/+3 until end of turn. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 3 to cast it.)</text>
+			<text>Imagine 3. Then, creatures you control get +0/+3 until end of turn. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/160.png" num="185">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2811,7 +2812,7 @@ Choose one. If you have beaten the dare, you may choose both:
 		<card>
 			<name>Trunk-Legged Treehouse</name>
 			<text>Reach
-The first time another creature you control dies each turn, create a tapped 1/1 green Forest Elemental land creature token.</text>
+The first time another creature you control dies each turn, Nurture a tapped Forest Elemental. (Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/162.png" num="198">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3033,7 +3034,7 @@ The first time a creature you control leaves the battlefield each turn, create a
 		</card>
 		<card>
 			<name>Big Imagination</name>
-			<text>Imagine X, then imagine X. (Put the top card of your library face down as an X/1 Figment creature that&apos;s all colors.Then do it again. When one of those creatures deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus {X} to cast it.)</text>
+			<text>Imagine X, then imagine X. (Put the top card of your library face down as a 1/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;. Then do it again.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/175.png" num="204">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3050,7 +3051,7 @@ The first time a creature you control leaves the battlefield each turn, create a
 		<card>
 			<name>Gain The Edge</name>
 			<text>If an opponent has at least three more creatures than you, you may cast this spell as though it had flash.
-Create four 1/1 white and green Toy Soldier artifact creature tokens.</text>
+Nurture a Toy Soldier four times. (Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token. Then do it three more times.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/176.png" num="215">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3156,9 +3157,9 @@ Whenever this creature deals combat damage to an opponent, if you have an odd nu
 		<card>
 			<name>Mudsculptor</name>
 			<text>As an additional cost to cast this spell, tap an untapped creature you control.
-When this creature enters, Choose one:
-- Create a tapped 1/1 green Forest Elemental creature token.
-- You may play an additional land this turn.</text>
+When this creature enters, Choose one:.
+- You may play an additional land this turn.
+- Nurture a tapped Forest Elemental. (Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/182.png" num="228">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3174,14 +3175,14 @@ When this creature enters, Choose one:
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Muckballer</name>
+			<name>Muckspitter</name>
 			<text>This spell costs {2} less if two or more lands you control entered this turn.
 When this creature enters, shuffle target creature into its owner&apos;s library, then its controller draws a card.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/183.png" num="227">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elemental</type>
+				<type>Creature — Elemental Fish</type>
 				<maintype>Creature</maintype>
 				<manacost>2GU</manacost>
 				<cmc>4</cmc>
@@ -3340,7 +3341,7 @@ Whenever you scry, put a +1/+1 counter on this creature.</text>
 		</card>
 		<card>
 			<name>Site Surveyor</name>
-			<text>{1}, {T}: Create a 1/1 white and green Toy Soldier artifact creature token. Activate only if a land entered under your control this turn.</text>
+			<text>{1}, {T}: Nurture a Toy Soldier. Activate only if a land entered under your control this turn. (Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/192.png" num="241">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3360,7 +3361,7 @@ Whenever you scry, put a +1/+1 counter on this creature.</text>
 			<text>Affinity for creature tokens.
 When this creature enters, Choose one:
 - Untap two target lands.
-- Create a tapped 1/1 green Forest Elemental land creature token.</text>
+- Nurture an Elemental Fish twice. (Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token. Then do it again.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/193.png" num="209">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3378,7 +3379,7 @@ When this creature enters, Choose one:
 		<card>
 			<name>Ambitious Twins</name>
 			<text>When this creature enters, create a 2/2 green Dinosaur creature token.
-{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. (Put the top card of your library face down as a 6/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 6 to cast it.)</text>
+{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. (Put the top card of your library face down as a 6/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/194.png" num="202">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3521,7 +3522,7 @@ Surprise {1}{W}</text>
 		<card>
 			<name>Play-Worn Soldier</name>
 			<text>Whenever this creature attacks, other attacking creatures with power 2 or less get +X/+0 until end of turn, where X is this creature&apos;s power.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/202.png" num="26">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/202.png" num="25">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3556,7 +3557,7 @@ When this Aura becomes attached to a creature, enchanted creature gains indestru
 		</card>
 		<card>
 			<name>Each Treehouse A Home</name>
-			<text>Create a 1/1 white and green Toy Soldier artifact creature token for each untapped land you control.</text>
+			<text>For each untapped land you control, Nurture a Toy Soldier.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/204.png" num="12">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3573,7 +3574,7 @@ When this Aura becomes attached to a creature, enchanted creature gains indestru
 		<card>
 			<name>Reassuring Pat</name>
 			<text>Whenever a spell you cast is countered or exiled, untap target land you control.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/205.png" num="28">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/205.png" num="27">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3644,7 +3645,7 @@ When this creature leaves the battlefield, put the top card of target player&apo
 			<text>When this enchantment enters, if it was cast from exile, put target creature on the top of its owner&apos;s library. Otherwise, return target creature to its owner&apos;s hand.
 {2}{U}: Target creature gets -4/-0 until end of turn. Its controller mills three cards.
 Timeout — One or more opponents control more creatures than you.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/209.png" num="52">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/209.png" num="51">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3662,7 +3663,7 @@ Timeout — One or more opponents control more creatures than you.</text>
 			<text>Flying
 When this creature enters, choose an opponent. If that opponent has more cards in hand than you, draw cards equal to the difference.
 Timeout — You have not cast any spells this turn.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/210.png" num="50">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/210.png" num="49">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3677,14 +3678,14 @@ Timeout — You have not cast any spells this turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Caked Gunk Thrower</name>
+			<name>Gunk Swimmer</name>
 			<text>Ward {1}
-When this creature enters, you may pay {1}. If you do, create a copy of another target token permanent. Otherwise, draw a card.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/211.png" num="46">WML</set>
+When this creature enters, you may pay {1}. If you do, create a copy of another target token permanent. Otherwise, Nurture a Fish.</text>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/211.png" num="52">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Figment</type>
+				<type>Creature — Elemental Fish</type>
 				<maintype>Creature</maintype>
 				<manacost>4U</manacost>
 				<cmc>5</cmc>
@@ -3716,7 +3717,7 @@ The first time a creature or artifact an opponent controls enters each turn, put
 		<card>
 			<name>Fond Memory</name>
 			<text>When this creature enters, create a tapped copy of another creature you control not named Fond Memory, except it&apos;s a Figment creature in addition to its types.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/213.png" num="51">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/213.png" num="50">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3751,7 +3752,7 @@ The first time a creature or artifact an opponent controls enters each turn, put
 			<text>Whenever you discard a nonland card, you may discard it into exile. If you do, it gains &quot;Timeout — A creature you control named Toothy, Consuming Thought has three or more +1/+1 counters.&quot; as long as it is in exile.
 {U}, Discard a card: Put a +1/+1 counter on Toothy.
 {1}{U}, Remove a +1/+1 counter from Toothy: Draw a card.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/215.png" num="76">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/215.png" num="77">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4073,7 +4074,7 @@ During your postcombat main phase, instant and sorcery spells you cast cost {X} 
 			<name>Megamuckfish</name>
 			<text>Trample
 Land creatures you control get +3/+3 and have trample and vigilance.
-Whenever a noncreature land you control enters, create a tapped 1/1 green Forest Elemental land creature token.</text>
+Whenever a noncreature land you control enters, Nurture a tapped Forest Elemental.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/233.png" num="187">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4277,7 +4278,7 @@ At the start of each opponent&apos;s combat phase, that opponent may pay {X}, wh
 		</card>
 		<card>
 			<name>Jaax, Excitable Prodigy</name>
-			<text>Whenever you cast an instant or sorcery spell, if you spent mana equal to its mana value to cast it, you may exile it instead of putting it into your graveyard as it resolves with three time counters and give it suspend if it does not have it. If you do, imagine X, where X is the exiled spell&apos;s mana value. (Put the top card of your library face down as a X/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus X to cast it.)</text>
+			<text>Whenever you cast an instant or sorcery spell, if you spent mana equal to its mana value to cast it, you may exile it instead of putting it into your graveyard as it resolves with three time counters and give it suspend if it does not have it. If you do, imagine X, where X is the exiled spell&apos;s mana value. (Put the top card of your library face down as a X/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/245.png" num="220">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4295,7 +4296,7 @@ At the start of each opponent&apos;s combat phase, that opponent may pay {X}, wh
 		<card>
 			<name>Stephen, Toybox Commander</name>
 			<text>First strike
-At the beginning of combat on your turn, create X 1/1 white and green Toy Soldier artifact creature tokens, where X is the number of creatures that entered this turn.</text>
+At the beginning of combat on your turn, for each creature that entered this turn, Nurture a Toy Soldier. (Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/246.png" num="242">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4351,7 +4352,7 @@ Whenever Jodie deals combat damage to a player, choose one that hasn&apos;t been
 		<card>
 			<name>Mahaba, Gentle Yet Giant</name>
 			<text>Flash
-The first time Mahaba or another creature with mana value 4 or greater you control enters on each of your turns, create a tapped 1/1 green Forest Elemental land creature token.
+The first time Mahaba or another creature with mana value 4 or greater you control enters on each of your turns, Nurture a tapped Forest Elemental.
 At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/249.png" num="225">WML</set>
 			<prop>
@@ -4409,7 +4410,7 @@ Whenever you sacrifice an Insect, Spider and/or token, each opponent loses 1 lif
 		<card>
 			<name>Salvatore, Wild Rancher</name>
 			<text>Trample
-At the beginning of your upkeep, imagine 4. (Put the top card of your library face down as a 4/1 Figment creature that&apos;s all colors. When that creature deals combat damage to an opponent, you may exile the card and pay the card&apos;s mana cost minus 4 to cast it.)
+At the beginning of your upkeep, imagine 4. (Put the top card of your library face down as a 4/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power&quot;.)
 Other creatures you control with power 4 or greater get +0/+3 and have trample.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/252.png" num="236">WML</set>
 			<prop>
@@ -4611,7 +4612,7 @@ Activated abilities of artifacts and enchantments your opponents control can&apo
 			<text>Sharing {2}{U} (When this creature enters, if you paid the Sharing cost while casting, each other creature you control&apos;s text box is replaced with this creature&apos;s text box until end of turn.)
 Flying, hexproof
 When this creature deals combat damage to an opponent, that player mills cards equal to this creature&apos;s power.</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/263.png" num="48">WML</set>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/263.png" num="47">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/1.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/7.png"
 			}
@@ -114,7 +114,7 @@
 			"name": "Unnecessary Protectors",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Human",
+			"type": "Creature — Toy Soldier",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/11.png"
@@ -151,11 +151,11 @@
 			}
 		},
 		{
-			"name": "Lazy Wisp",
+			"name": "Sleepy Streamfish",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Elemental",
-			"collector_number": "24",
+			"type": "Creature — Elemental Fish",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/15.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Figment",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/18.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Figment Horror",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/22.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Shark",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Pirate Scout",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/26.png"
 			}
@@ -284,7 +284,7 @@
 			"name": "Puddle Diver",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Figment",
+			"type": "Creature — Elemental Fish",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/28.png"
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/30.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/32.png"
 			}
@@ -335,17 +335,17 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/33.png"
 			}
 		},
 		{
-			"name": "Vehement Gardener",
+			"name": "Slippery Muckfry",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Figment",
-			"collector_number": "78",
+			"type": "Creature — Elemental Fish",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/34.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/119.png"
 			}
@@ -1831,10 +1831,10 @@
 			}
 		},
 		{
-			"name": "Muckballer",
+			"name": "Muckspitter",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Elemental",
+			"type": "Creature — Elemental Fish",
 			"collector_number": "227",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/183.png"
@@ -2025,7 +2025,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Toy Soldier",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/202.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/205.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/209.png"
 			}
@@ -2105,17 +2105,17 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/210.png"
 			}
 		},
 		{
-			"name": "Caked Gunk Thrower",
+			"name": "Gunk Swimmer",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Figment",
-			"collector_number": "46",
+			"type": "Creature — Elemental Fish",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/211.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Figment",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/213.png"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Figment",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/215.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Serpent Figment",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/263.png"
 			}
@@ -3004,7 +3004,7 @@
 	2 Regifting Guest
 	2 Formaldehyde Soak
 	2 Envious Windsailor
-	2 Caked Gunk Thrower
+	2 Gunk Swimmer
 	2 Kukkyonan Moatguard
 	2 Fond Memory
 	2 Humiliating Demand
@@ -3143,7 +3143,7 @@
 	4 Grab An Armful
 	4 Flyby Razer
 	4 Mudsculptor
-	4 Muckballer
+	4 Muckspitter
 	4 Taunting Jockey
 	4 Dramatic Entrance
 	4 Plump Bloatfly
@@ -3176,7 +3176,7 @@
 	8 Clueless Tax Collector
 	8 Frightened Steed
 	8 Tactical Falcon
-	8 Lazy Wisp
+	8 Sleepy Streamfish
 	8 Aggressive Calming
 	8 Caring Company
 	8 Prim Pal
@@ -3195,7 +3195,7 @@
 	8 Precise Planner
 	8 Sweet Dreams
 	8 Swooping Crescendo
-	8 Vehement Gardener
+	8 Slippery Muckfry
 	8 Shut Up
 	8 Jeering Backup
 	8 Antagonizing Acquaintance
@@ -3292,7 +3292,7 @@
 	8 Clueless Tax Collector
 	8 Frightened Steed
 	8 Tactical Falcon
-	8 Lazy Wisp
+	8 Sleepy Streamfish
 	8 Aggressive Calming
 	8 Caring Company
 	8 Prim Pal
@@ -3311,7 +3311,7 @@
 	8 Precise Planner
 	8 Sweet Dreams
 	8 Swooping Crescendo
-	8 Vehement Gardener
+	8 Slippery Muckfry
 	8 Shut Up
 	8 Jeering Backup
 	8 Antagonizing Acquaintance
@@ -3408,7 +3408,7 @@
 	12 Clueless Tax Collector
 	12 Frightened Steed
 	12 Tactical Falcon
-	12 Lazy Wisp
+	12 Sleepy Streamfish
 	12 Aggressive Calming
 	12 Caring Company
 	12 Prim Pal
@@ -3427,7 +3427,7 @@
 	12 Precise Planner
 	12 Sweet Dreams
 	12 Swooping Crescendo
-	12 Vehement Gardener
+	12 Slippery Muckfry
 	12 Shut Up
 	12 Jeering Backup
 	12 Antagonizing Acquaintance
@@ -3576,7 +3576,7 @@
 	6 Grab An Armful
 	6 Flyby Razer
 	6 Mudsculptor
-	6 Muckballer
+	6 Muckspitter
 	6 Taunting Jockey
 	6 Dramatic Entrance
 	6 Plump Bloatfly
@@ -3604,7 +3604,7 @@
 	2 Regifting Guest
 	2 Formaldehyde Soak
 	2 Envious Windsailor
-	2 Caked Gunk Thrower
+	2 Gunk Swimmer
 	2 Kukkyonan Moatguard
 	2 Fond Memory
 	2 Humiliating Demand
@@ -3690,7 +3690,7 @@
 	6 Clueless Tax Collector
 	6 Frightened Steed
 	6 Tactical Falcon
-	6 Lazy Wisp
+	6 Sleepy Streamfish
 	6 Aggressive Calming
 	6 Caring Company
 	6 Prim Pal
@@ -3709,7 +3709,7 @@
 	6 Precise Planner
 	6 Sweet Dreams
 	6 Swooping Crescendo
-	6 Vehement Gardener
+	6 Slippery Muckfry
 	6 Shut Up
 	6 Jeering Backup
 	6 Antagonizing Acquaintance
@@ -3858,7 +3858,7 @@
 	15 Grab An Armful
 	15 Flyby Razer
 	15 Mudsculptor
-	15 Muckballer
+	15 Muckspitter
 	15 Taunting Jockey
 	15 Dramatic Entrance
 	15 Plump Bloatfly
@@ -3886,7 +3886,7 @@
 	7 Regifting Guest
 	7 Formaldehyde Soak
 	7 Envious Windsailor
-	7 Caked Gunk Thrower
+	7 Gunk Swimmer
 	7 Kukkyonan Moatguard
 	7 Fond Memory
 	7 Humiliating Demand
