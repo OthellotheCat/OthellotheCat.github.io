@@ -1,4 +1,62 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Precise Planner
+rules_text: Whenever a creature you control enters from exile or is cast from exile, scry 1, then draw a card. => Whenever a creature you control enters from exile or you cast a spell from exile, scry 1, then draw a card.
+
+Jealous Doll
+rules_text: When this creature leaves the battlefield, each player shuffles a creature they control into their library.
+Surprise {1}{B} [i](You may pay {1}{B} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this creature leaves the battlefield, each player shuffles a creature they control into its owner's library.
+Surprise {1}{B} [i](You may pay {1}{B} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Leafy Launcher
+rules_text: Reach
+When this creature enters, if you control a creature token, destroy target creature with flying. => Reach
+When this creature enters, if you control a creature token or face-down creature, destroy target creature with flying.
+pt: 3/6 => 3/4
+
+Knock Some Sense Into You
+rules_text: Choose target creature you control. If it is a token, damage it deals is doubled until end of turn. Then, it deals damage equal to its power to another target creature. => Choose target creature you control. If it is a token or face-down creature, damage it deals is doubled until end of turn. Then, it deals damage equal to its power to another target creature.
+
+Adaman Nestguard
+rules_text: Creatures you control with less power than this creature have haste.
+{1}{R}: Target creature you control with less power than this creature gets +1/+1 until end of turn. => Creatures you control with less power than this creature have haste.
+{1}{R}: Put a +1/+1 counter on target creature you control with less power than this creature. Activate only as a sorcery.
+
+Mesmerizing Fractal
+rules_text: When this creature enters, you may pay {1}{G}. If you do, create an X/X token copy of this creature, where X is the number of Fractals you control. => When this creature enters, you may pay {1}{G}. If you do, create a token copy of this creature that enters with X +1/+1 counters on it, where X is the number of Fractals you control.
+
+Golodoff Broodmother
+rules_text: Trample
+When this creature enters, you gain 2 life.
+At the beginning of each end step, if your life total changed this turn, you gain 1 life and create a 1/1 black and green Insect creature token with flying. => Trample
+When this creature enters, you gain 2 life.
+At the beginning of each end step, if your life total changed this turn, you gain 2 life and create a 1/1 black and green Insect creature token with flying.
+
+Yelena, Gift-Giver
+rules_text: Whenever another nontoken nonland permanent you control enters, if it was not cast, each player may create a token copy of it.
+At the start of each opponent's combat phase, that opponent may pay {X}, where X is the number of nonland permanents they control with the same name as a permanent you control. If they do not, that opponent cannot attack you until the start of their next turn. => Whenever another nontoken nonland face-up permanent you control enters, if it was not cast, each player may create a token copy of it.
+At the start of each opponent's combat phase, that opponent may pay {X}, where X is the number of nonland permanents they control with the same name as a permanent you control. If they do not, that opponent cannot attack you until the start of their next turn.
+
+Concept of the Protector
+pt: 3/4 => 4/4
+
+Concept of the Bully
+pt: 4/4 => 3/4
+
+Gene, Surrounded by Terror
+rules_text: Lifelink
+Whenever a creature you control with equal or greater power than Gene enters, you may shuffle it into its owner's library. If you do not, you lose 3 life and put a +1/+1 counter on Gene.
+The first time your life total changes each turn, Choose one:
+- Create a 1/1 black and green Insect creature token with flying.
+- Create a 1/2 black and green Spider creature token with reach. => Lifelink
+Whenever a creature you control with equal or greater power than Gene enters, you may shuffle it into its owner's library. If you do not, you lose 3 life and put a +1/+1 counter on Gene.
+The first time your life total changes each turn, create a 1/2 black and green Spider creature token with reach.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
