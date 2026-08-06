@@ -768,12 +768,12 @@
         "position": "122"
     },
     {
-        "card_name": "Reconnaissance Birds",
-        "number": 68,
+        "card_name": "Refresh",
+        "number": 69,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "132"
+        "position": "131"
     },
     {
         "card_name": "Shadowy Remnant",
@@ -808,12 +808,12 @@
         "position": "115"
     },
     {
-        "card_name": "Refresh",
-        "number": 69,
+        "card_name": "Shut Up",
+        "number": 72,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "131"
+        "position": "35"
     },
     {
         "card_name": "Spoiled Surprise",
@@ -1288,12 +1288,12 @@
         "position": "1"
     },
     {
-        "card_name": "Scold",
-        "number": 71,
+        "card_name": "Reconnaissance Birds",
+        "number": 68,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "21"
+        "position": "132"
     },
     {
         "card_name": "Petty Punishment",
@@ -1328,12 +1328,12 @@
         "position": "15"
     },
     {
-        "card_name": "Shut Up",
-        "number": 72,
+        "card_name": "Scold",
+        "number": 71,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "35"
+        "position": "21"
     },
     {
         "card_name": "Roughhouser's Revel",
@@ -1669,7 +1669,7 @@
         "position": "178"
     },
     {
-        "card_name": "Dramatic Entrance",
+        "card_name": "Explosive Entrance",
         "number": 211,
         "shape": "normal",
         "set": "WML",

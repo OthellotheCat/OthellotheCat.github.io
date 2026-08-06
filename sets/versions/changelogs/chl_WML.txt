@@ -1,4 +1,212 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Explosive Entrance added.
+
+Dramatic Entrance removed.
+
+Bump the Shelf
+rules_text: Choose one:
+- Destroy target artifact
+- Destroy target enchantment.
+- Exile target creature, then return it to the battlefield under its owner's control tapped. => Choose one — 
+• Destroy target artifact
+• Destroy target enchantment.
+• Exile target creature, then return it to the battlefield under its owner's control tapped.
+
+Fracturing Figurine
+rules_text: Whenever another creature you control leaves the battlefield, put a fracture counter on this creature. This creature can have up to three fracture counters on it.
+{5}, {T}, Sacrifice this creature: Draw cards equal to the amount of fracture counters on this creature. => Whenever another creature you control leaves the battlefield, put a fracture counter on this creature.
+{5}, {T}, Sacrifice this creature: Draw X cards, where X is equal to the amount of fracture counters on this creature to a maximum of three.
+
+Unnecessary Protectors
+type: Creature — Toy Soldier => Artifact Creature — Toy Soldier
+
+Clueless Tax Collector
+rules_text: When this creature enters, Choose one:
+- Target opponent draws a card. You create two Treasure tokens.
+- Draw a card. => When this creature enters, choose one — 
+• Target opponent draws a card. You create two Treasure tokens.
+• Draw a card.
+
+Frightened Steed
+rules_text: When this creature leaves the battlefield, if it entered this turn, scry 1.
+Surprise {W} [i](You may pay {W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this creature enters or leaves the battlefield, scry 1.
+Surprise {W} [i](You may pay {W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+pt: 2/3 => 2/2
+
+Shut Up
+cost: {1}{U} => {1}{U}{U}
+rules_text: Choose one:
+- Counter target activated or triggered ability.
+- Player can't draw more than one card until end of turn. => Choose one — 
+• Counter target spell, activated ability, or triggered ability.
+• Player can't draw more than one card until end of turn.
+
+Think, Think!
+rules_text: Choose one:
+- Imagine 1, then imagine 1.[i] [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”. Then do it again.)[/i][/i]
+- Creatures target player controls get +2/+0 until end of turn. => Choose one —
+• Creatures target player controls get +2/+0 until end of turn.
+• Imagine 1, then imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for X less, where X is this creature's power”. Then do it again.)[/i]
+
+Aspiring Tyrant
+rules_text: As an additional cost to cast this spell, discard a card.
+When this creature enters, imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => As an additional cost to cast this spell, discard a card.
+When this creature enters, imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Dangerous Idea
+rules_text: Imagine 2. Then, target creature you control gets +2/+0 and gains haste until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => Imagine 2. Then, target creature you control gets +2/+0 and gains haste until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Bonk
+rules_text: Bonk deals 5 damage to target creature. Imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => Bonk deals 5 damage to target creature. Imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Mocking Musician
+rules_text: You may cast this spell as though it had flash if you cast it from exile.
+{T}, Sacrifice this creature: Target player discards a nonland card.
+Timeout — A player has drawn two or more cards this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => {T}, Sacrifice this creature: Target player discards a creature card.
+Timeout — A player has drawn two or more cards this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Scarred Braggart
+rules_text: {T}: Scarred Braggart deals 1 damage to each player. => {T}: Scarred Braggart deals 1 damage to target creature and to you.
+
+Earthen Admiration
+rules_text: Choose one:
+- Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
+- Create two tapped 1/1 green Forest Elemental land creature tokens. => Choose on —
+• Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
+• Create two tapped 1/1 green Forest Elemental land creature tokens.
+
+Make Something New
+rules_text: Destroy target artifact or enchantment. If you were its controller, imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => Destroy target artifact or enchantment. If you were its controller, imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Lightning Strike Kite
+rules_text: {4}, {T}, Sacrifice this artifact: Destroy target tapped creature.
+{1}, {T}, Sacrifice this artifact: Destroy target tapped creature with flying. => {1}, {T}, Sacrifice this artifact: This artifact deals 3 damage to target creature with flying or target face-down creature.
+
+Make It Louder
+rules_text: Imagine 3. Then, creatures you control get +2/+0 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => Imagine 3. Then, creatures you control get +2/+0 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Reconnaissance Birds
+
+Face Your Fears
+rules_text: Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Choose one. If you have beaten the dare, you may choose both:
+- Until end of turn, target creature gains deathtouch and indestructible.
+- Until end of turn, target creature gets +2/+2 and gains lifelink. => Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Until end of turn, target creature gains deathtouch and indestructible.
+• Until end of turn, target creature gets +2/+2 and gains lifelink.
+
+Face the Flames
+rules_text: Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Choose one. If you have beaten the dare, you may choose both:
+- Face the Flames deals 3 damage to target creature.
+- Face the Flames deals 1 damage to each creature. => Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Face the Flames deals 3 damage to target creature.
+• Face the Flames deals 1 damage to up to two different target creatures.
+
+Make It Faster
+rules_text: Imagine 3. Then, creatures you control gain haste until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => Imagine 3. Then, creatures you control gain first strike until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”. That creature deals combat damage before creatures without first strike.)[/i]
+
+Face the Feast
+rules_text: Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Choose one. If you have beaten the dare, you may choose both:
+- You gain 3 life.
+- You gain X life, where X is the number of creatures you control. => Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• You gain 3 life.
+• You gain X life, where X is the number of creatures you control.
+
+Make It Bigger
+rules_text: Imagine 3. Then, creatures you control get +0/+3 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => Imagine 3. Then, creatures you control get +0/+3 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Mudsculptor
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Choose one:.
+- You may play an additional land this turn.
+- Nurture a tapped Forest Elemental. [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i] => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, choose one —
+• You may play an additional land this turn.
+• Nurture a tapped Forest Elemental. [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i]
+
+Lost Hatchling
+rules_text: When this creature enters, Choose one:
+- Create two 2/2 green Dinosaur creature tokens.
+- Put three +1/+1 counters on another target creature you control. => When this creature enters, choose one —
+• Create two 2/2 green Dinosaur creature tokens.
+• Put three +1/+1 counters on another target creature you control.
+
+Cooperative Builder
+rules_text: Affinity for creature tokens.
+When this creature enters, Choose one:
+- Untap two target lands.
+- Nurture an Elemental Fish twice. [i](Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token. Then do it again.)[/i] => Affinity for creature tokens.
+When this creature enters, choose one —
+• Untap two target lands.
+• Nurture an Elemental Fish twice. [i](Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token. Then do it again.)[/i]
+
+Ambitious Twins
+rules_text: When this creature enters, create a 2/2 green Dinosaur creature token.
+{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. [i](Put the top card of your library face down as a 6/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => When this creature enters, create a 2/2 green Dinosaur creature token.
+{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. [i](Put the top card of your library face down as a 6/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Overcoming Fear
+rules_text: Whenever a creature you control becomes blocked by one or more creatures, you may lose 1 life. If you do, choose one that hasn't been chosen this turn:
+- Draw a card.
+- Target attacking creature gets +2/+0 until end of turn.
+- Target attacking creature gets +0/+2 until end of turn. => Whenever a creature you control becomes blocked by one or more creatures, you may lose 1 life. If you do, choose one that hasn't been chosen this turn —
+• Draw a card.
+• Target attacking creature gets +2/+0 until end of turn.
+• Target attacking creature gets +0/+2 until end of turn.
+
+Jaax, Excitable Prodigy
+rules_text: Whenever you cast an instant or sorcery spell, if you spent mana equal to its mana value to cast it, you may exile it instead of putting it into your graveyard as it resolves with three time counters and give it suspend if it does not have it. If you do, imagine X, where X is the exiled spell's mana value. [i](Put the top card of your library face down as a X/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i] => Whenever you cast an instant or sorcery spell, if you spent mana equal to its mana value to cast it, you may exile it instead of putting it into your graveyard as it resolves with three time counters and give it suspend if it does not have it. If you do, imagine X, where X is the exiled spell's mana value. [i](Put the top card of your library face down as a X/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Jodie, Flashy Plunderer
+rules_text: If you have an odd number of cards in hand, Jodie has flying. Otherwise, Jodie has double strike.
+Whenever Jodie deals combat damage to a player, choose one that hasn't been chosen this turn:
+- Jodie deals 2 damage to each opponent.
+- Create two tapped Treasure tokens.
+- Discard a card, then draw two cards. => If you have an odd number of cards in hand, Jodie has flying. Otherwise, Jodie has double strike.
+Whenever Jodie deals combat damage to a player, choose one that hasn't been chosen this turn —
+• Jodie deals 2 damage to each opponent.
+• Create two tapped Treasure tokens.
+• Discard a card, then draw two cards.
+
+Salvatore, Wild Rancher
+rules_text: Trample
+At the beginning of your upkeep, imagine 4. [i](Put the top card of your library face down as a 4/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”.)[/i]
+Other creatures you control with power 4 or greater get +0/+3 and have trample. => Trample
+At the beginning of your upkeep, imagine 4. [i](Put the top card of your library face down as a 4/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+Other creatures you control with power 4 or greater get +0/+3 and have trample.
+
+Cruel Prankster
+rules_text: When this creature enters, choose target opponent. Until the beginning of your next upkeep, whenever they draw a card, they lose 2 life.
+When this creature leaves the battlefield, each player draws a card.
+Surprise {B} => When this creature enters, choose target opponent. Until the beginning of your next upkeep, whenever the chosen opponent draws a card, they lose 2 life.
+When this creature leaves the battlefield, each player draws a card.
+Surprise {B}
+
+Shavida, Friend-Maker
+rules_text: Whenever a Figment you control enters, put a friend counter on Shavida.
+At the beginning of your first postcombat main phase on each of your turns, if Shavida has three or more friend counters, remove them. If you do, untap each creature that attacked this turn, and there is another combat phase and postcombat main phase after this phase.
+{R}{G}{W}, {T}: Imagine 4. => Whenever a Figment you control enters, put a friend counter on Shavida.
+At the beginning of your first postcombat main phase on each of your turns, if Shavida has three or more friend counters, remove them. If you do, untap each creature that attacked this turn, and there is another combat phase and postcombat main phase after this phase.
+{R}{G}{W}, {T}: Imagine 3. Activate only as a sorcery.
+
+Quintorious, Mind Alight
+rules_text: You have no maximum hand size.
+Draw a card. If you control a Figment, instead, draw two.
+Put up to one target noncreature card from your graveyard on top of your library. Then, Imagine 2.
+Imagine X X times,, where X is the number of cards in your hand. => You have no maximum hand size.
+Draw a card. If you control a Figment, instead, draw two.
+Put up to one target noncreature card from your graveyard on top of your library. Then, Imagine 2.
+Imagine X X times, where X is the number of cards in your hand.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Sleepy Streamfish added.
