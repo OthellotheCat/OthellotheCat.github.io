@@ -1,4 +1,306 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Slippery Streamfish added.
+Oilbelcher added.
+Treehome Sunreacher added.
+Sneaky Beetle added.
+Toy added.
+
+Sleepy Streamfish removed.
+Scavenging Oildrinker removed.
+Trunk-Legged Treehouse removed.
+Harmless Moth removed.
+Toy Soldier removed.
+
+Silly Goose
+rules_text: Flying
+When this creature enters, tap target creature.
+When this creature leaves the battlefield, put a stun counter on up to one target creature.
+Surprise {1}{W} [i](You may pay {1}{W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => Flying
+When this creature enters, tap up to one target creature.
+When this creature leaves the battlefield, put a stun counter on up to one target tapped creature.
+Surprise {1}{W} [i](You may pay {1}{W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+pt: 1/3 => 1/2
+
+Uncaring Recipient
+rules_text: Whenever a creature you control leaves the battlefield, scry 1.
+{2}, {T}: Return target creature you control that entered the battlefield this turn to its owner's hand. => Whenever a creature you control leaves the battlefield, surveil 1.
+{2}, {T}: Return target creature you control that entered the battlefield this turn to its owner's hand.
+
+Fracturing Figurine
+rules_text: Whenever another creature you control leaves the battlefield, put a fracture counter on this creature.
+{5}, {T}, Sacrifice this creature: Draw X cards, where X is equal to the amount of fracture counters on this creature to a maximum of three. => Whenever another creature you control leaves the battlefield, you may pay {1} and sacrifice this creature. If you do, surveil 1 and draw a card.
+
+Collaborate
+rules_text: Scry 3.
+You and target opponent each draw two cards. => Scry 3.
+Draw two cards.
+Target opponent draws a card.
+
+Unnecessary Protectors
+cost: {W} => {4}{W}
+rules_text: When this creature enters, return another permanent you control to its owner's hand. If you do, Nurture a Toy Soldier. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i] => Affinity for creature tokens. [i](This spell costs {1} less to cast for each creature token you control.)[/i]
+When this creature enters, return target permanent you control to its owner's hand. If you do, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i]
+pt: 1/1 => 2/2
+
+Frightened Steed
+rules_text: When this creature enters or leaves the battlefield, scry 1.
+Surprise {W} [i](You may pay {W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this creature enters or leaves the battlefield, surveil 1.
+Surprise {W} [i](You may pay {W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Tactical Falcon
+rules_text: Flying
+When this creature leaves the battlefield, create a 1/1 white and green Toy Soldier artifact creature token.
+Surprise {W} [i](You may pay {W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => Flying
+When this creature leaves the battlefield, create a 1/1 white and green Toy artifact creature token.
+Surprise {W} [i](You may pay {W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Caring Company
+cost: {5}{W} => {4}{W}
+
+Prim Pal
+rules_text: {T}, Sacrifice this creature: Add {W}, {U} or {B}. => {1}, Sacrifice this creature: Add {W}, {U} or {B}.
+pt: 1/1 => 1/2
+
+Party Popper
+rules_text: When this creature enters, tap target creature or artifact.
+When this creature leaves the battlefield, untap target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this creature enters, you may target creature or artifact.
+When this creature leaves the battlefield, you may untap target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Unstable Jitterer
+type: Creature — Figment Horror => Creature — Horror Figment
+cost: {2}{U} => {4}{U}
+rules_text: When this creature enters, discard a card. If this creature was cast from exile, target opponent also discards a card.
+Timeout — You have not discarded a card this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => When this creature enters or leaves the battlefield, each player discards a card.
+Timeout — You have not discarded a card this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+pt: 3/3 => 4/4
+
+Puddle Diver
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Nurture an Elemental Fish. [i](Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token.)[/i] => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Nurture a Fish. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)[/i]
+
+Muddy Mystic
+cost: {1}{U} => {3}{U}
+rules_text: When this creature enters, tap target creature. If you control two or more untapped lands, Nurture an Elemental Fish. [i](Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token.)[/i] => When this creature enters, you may tap target creature and put two stun counters on it. If you control an untapped land, Nurture a Fish. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)[/i]
+pt: 2/2 => 3/3
+
+Precise Planner
+cost: {2}{U} => {3}{U}
+pt: 2/3 => 3/3
+
+Swooping Crescendo
+rules_text: Flying
+When this creature enters, if you control another creature named Swooping Crescendo, tap target creature. Then if you control four or more other creatures named Swooping Crescendo, put a stun counter on all tapped creatures target opponent controls.
+A deck can have any number of cards named Swooping Crescendo. => Flying
+When this creature enters, for each other creature named Swooping Crescendo you control, tap up to one target creature or artifact.
+A deck can have any number of cards named Swooping Crescendo.
+
+Shut Up
+rules_text: Choose one — 
+• Counter target spell, activated ability, or triggered ability.
+• Player can't draw more than one card until end of turn. => Choose one — 
+• Counter target spell, activated ability, or triggered ability.
+• Target player can't draw more than one card until end of turn.
+
+Jeering Backup
+cost: {2}{U} => {3}{U}
+rules_text: When this creature enters, target player draws a card. If this creature was cast from exile, that player instead discards a card.
+Timeout — Another creature you control entered this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => When this creature enters, draw a card, then target player discards card.
+Timeout — A creature you control entered this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+pt: 2/2 => 2/3
+
+Antagonizing Acquaintance
+rules_text: {T}, Sacrifice this creature: Add {U}, {B} or {R}. => {1}, Sacrifice this creature: Add {U}, {B} or {R}.
+pt: 1/1 => 2/1
+
+Hamfisted Hogger
+cost: {2}{B} => {3}{B}
+pt: 4/5 => 5/5
+
+Ungrateful Snob
+rules_text: Whenever you shuffle your library, you gain 2 life. => Whenever you shuffle your library, target opponent loses 1 life and you gain 1 life.
+
+Find Your Moment
+rules_text: Until end of turn, target creature you control gets +2/+0 and gains menace and deathtouch. Shuffle it into its owner's library at the beginning of the next end step. => Until end of turn, target creature you control gets +2/+0 and gains deathtouch and indestructible. Shuffle it into its owner's library at the beginning of the next end step.
+
+Standoffish Softie
+cost: {3}{B} => {4}{B}
+pt: 3/4 => 4/4
+
+Gossip Girl
+cost: {B} => {5}{B}
+rules_text: When this creature enters, you may discard a card. If you do, scry 2. => When this creature enters, you may discard a card. Then, scry X, where X is equal to the number of cards you discarded this turn, and draw two cards.
+pt: 1/1 => 4/4
+
+Frightening Friend
+rules_text: {T}, Sacrifice this creature: Add {B}, {R} or {G}. => {1}, Sacrifice this creature: Add {B}, {R} or {G}.
+pt: 1/1 => 1/2
+
+Dangerous Idea
+rules_text: Imagine 2. Then, target creature you control gets +2/+0 and gains haste until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Dangerous Idea deals 1 damage to target player, 2 damage to target creature, and 3 damage to up to one other target face-down creature.
+
+Painful Memory
+type: Creature — Figment Horror => Creature — Horror Figment
+
+Brash Buddy
+rules_text: {T}, Sacrifice this creature: Add {W}, {R} or {G}. => {1}, Sacrifice this creature: Add {W}, {R} or {G}.
+pt: 1/1 => 2/1
+
+Drop Point
+rules_text: When this enchantment enters, you may search your library for a basic land card, reveal it, put it into your hand, and shuffle.
+{4}{G}: Create two 1/1 white and green Toy Soldier artifact creature tokens. Activate only as a sorcery. => When this enchantment enters, you may search your library for a basic land card, reveal it, put it into your hand, and shuffle.
+{4}{G}: Create two 1/1 white and green Toy artifact creature tokens. Activate only as a sorcery.
+
+Leafage Lineup
+rules_text: Nurture a Toy Soldier twice. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a tapped 1/1 white and green Toy Soldier artifact creature token. Then do it again.)[/i]
+Target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn. => Nurture a Toy twice. [i](Put a +1/+1 counter on target Toy you control, or create a tapped 1/1 white and green Toy artifact creature token. Then do it again.)[/i]
+Target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn.
+
+Earthen Admiration
+rules_text: Choose on —
+• Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
+• Create two tapped 1/1 green Forest Elemental land creature tokens. => Choose one —
+• Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
+• Create two tapped 1/1 green Forest Elemental land creature tokens.
+
+Natural Green Thumb
+rules_text: When this creature dies, Nurture a tapped Forest Elemental twice. [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token. Then do it again.)[/i] [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i] => When this creature dies, Nurture a tapped Forest twice. [i](Put a +1/+1 counter on target Forest you control, or create a tapped 1/1 green Forest Elemental land creature token. Then do it again.)[/i]
+
+Camouflaged Squad
+rules_text: When this creature enters, Nurture a Toy Soldier. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i]
+{5}: Creatures you control get +1/+1 until end of turn. => When this creature enters, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i]
+{5}: Creatures you control get +1/+1 until end of turn.
+
+Calming Companion
+rules_text: {T}, Sacrifice this creature: Add {W}, {U} or {G}. => {1}, Sacrifice this creature: Add {W}, {U} or {G}.
+pt: 1/1 => 1/2
+
+Treehome Troopers
+rules_text: Vigilance
+When this creature enters, Nurture a Toy Soldier. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i] => Vigilance
+When this creature enters, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i]
+
+Insidious Idea
+type: Creature — Figment Horror => Creature — Horror Figment
+
+Blatant Bribery
+rules_text: When casting this spell, you may discard any number of cards. Each card you discard while casting this spell pays for {1}. 
+Gain control of target creature an opponent controls with mana value X or less unless its controller pays {X}.
+Timeout — You have more cards in your hand than one or more opponents. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => When casting this spell, you may discard any number of cards. Each card you discard while casting this spell pays for {1}. 
+Gain control of target creature an opponent controls with mana value X or less unless its controller pays {X}.
+
+Shadowy Remnant
+type: Creature — Figment Horror => Creature — Horror Figment
+
+Jagged Monstrosity
+type: Creature — Figment Horror => Creature — Horror Figment
+
+Disingenuous Friend
+pt: 2/2 => 3/2
+
+Unwanted Reminder
+type: Creature — Figment Horror => Creature — Horror Figment
+
+Gain The Edge
+rules_text: If an opponent has at least three more creatures than you, you may cast this spell as though it had flash.
+Nurture a Toy Soldier four times. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token. Then do it three more times.)[/i] => If an opponent has at least three more creatures than you, you may cast this spell as though it had flash.
+Nurture a Toy four times. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token. Then do it three more times.)[/i]
+
+Toy Catapult
+rules_text: Affinity for creature tokens. [i](This spell costs {1} less to cast for each creature token you control.)[/i]
+Trample, vigilance
+When this creature attacks, it deals X damage divided between any number of targets, where X is the number of creatures that crewed it this turn.
+Crew 4 => Affinity for creature tokens.
+Trample, vigilance
+When this creature attacks, it deals X damage divided between any number of targets, where X is the number of creatures that crewed it this turn.
+Crew 4
+
+Scattered Thought
+type: Creature — Figment Horror => Creature — Horror Figment
+
+Mudsculptor
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, choose one —
+• You may play an additional land this turn.
+• Nurture a tapped Forest Elemental. [i](Put a +1/+1 counter on target Forest Elemental you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i] => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, choose one —
+• You may play an additional land this turn.
+• Nurture a tapped Forest. [i](Put a +1/+1 counter on target tapped Forest you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i]
+
+Improvising Accountant
+rules_text: Whenever you scry, create a Treasure token. This ability only triggers once each turn.
+{3}, {T}: Scry 2. => Whenever you scry or surveil, create a Treasure token. This ability only triggers once each turn.
+{3}, {T}: Scry 2.
+
+Kukkyonan Throneguard
+rules_text: Vigilance
+When this creature enters, if one or more permanents you controlled left the battlefield this turn, scry 2.
+Whenever you scry, put a +1/+1 counter on this creature. => Vigilance
+When this creature enters, if one or more permanents you controlled left the battlefield this turn, surveil 2.
+Whenever you scry or surveil, put a +1/+1 counter on this creature.
+
+Site Surveyor
+rules_text: {1}, {T}: Nurture a Toy Soldier. Activate only if a land entered under your control this turn. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i] => {1}, {T}: Nurture a Toy. Activate only if a land entered under your control this turn. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i]
+
+Cooperative Builder
+rules_text: Affinity for creature tokens.
+When this creature enters, choose one —
+• Untap two target lands.
+• Nurture an Elemental Fish twice. [i](Put a +1/+1 counter on target Elemental Fish you control, or create a 1/1 green and blue Elemental Fish creature token. Then do it again.)[/i] => Affinity for creature tokens.
+When this creature enters, choose one —
+• Untap two target lands.
+• Nurture a Fish twice. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token. Then do it again.)[/i]
+
+Each Treehouse A Home
+rules_text: For each untapped land you control, Nurture a Toy Soldier. => For each untapped land you control, Nurture a Toy.
+
+Kukkyonan Moatguard
+rules_text: Vigilance, ward {1}
+This creature can't be sacrificed.
+The first time a creature or artifact an opponent controls enters each turn, put a +1/+1 counter on this creature. => Vigilance, ward {1}
+This creature can't be sacrificed or shuffled into its owner's library.
+The first time a creature or artifact an opponent controls enters each turn, put a +1/+1 counter on this creature.
+
+Sadistic Assistant
+type: Creature — Figment Horror Scientist => Creature — Horror Figment Scientist
+
+Ruthless Exploiter
+rules_text: When this creature enters, if it was cast from exile, it gains haste until end of turn.
+Whenever damage would be dealt to this creature, you may discard a card. If you do not, the damage is dealt to you instead.
+{T}: Add {R}.
+Timeout — You have fewer lands than your opponent. => When you cast this spell from exile, it enters with haste.
+Whenever damage would be dealt to this creature, you may discard a card. If you do not, the damage is dealt to you instead.
+{T}: Add {R}.
+Timeout — You have fewer lands than your opponent.
+
+Megamuckfish
+rules_text: Trample
+Land creatures you control get +3/+3 and have trample and vigilance.
+Whenever a noncreature land you control enters, Nurture a tapped Forest Elemental. => Trample
+Land creatures you control get +3/+3 and have trample and vigilance.
+Whenever a noncreature land you control enters, Nurture a tapped Forest.
+
+Lasting Trauma
+type: Creature — Figment Horror => Creature — Horror Figment
+
+Stephen, Toybox Commander
+rules_text: First strike
+At the beginning of combat on your turn, for each creature that entered this turn, Nurture a Toy Soldier. [i](Put a +1/+1 counter on target Toy Soldier you control, or create a 1/1 white and green Toy Soldier artifact creature token.)[/i] => First strike
+At the beginning of combat on your turn, for each creature that entered this turn, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i]
+
+Mahaba, Gentle Yet Giant
+rules_text: Flash
+The first time Mahaba or another creature with mana value 4 or greater you control enters on each of your turns, Nurture a tapped Forest Elemental.
+At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater. => Flash
+The first time Mahaba or another creature with mana value 4 or greater you control enters on each of your turns, Nurture a tapped Forest.
+At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Explosive Entrance added.
