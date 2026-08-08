@@ -1,4 +1,12 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Iron Stomach added.
+
+Bottomless Stomach removed.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Bottomless Stomach added.
