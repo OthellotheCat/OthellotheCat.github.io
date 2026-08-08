@@ -1,4 +1,401 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Eager Gift-Stomper added.
+Careless Wayfaring added.
+Treehome Lullaby added.
+Favoritism added.
+Unsettling Phobia added.
+Bonk! added.
+Hypocrisy added.
+Rad Stunts added.
+Unlucky Kite-Flier added.
+Pristine Collector added.
+Sky-High Recon added.
+Jagged Memories added.
+Desperate Brawl added.
+Adaman Rockstomper added.
+Golodoff Glutton added.
+Golodoff Wanderer added.
+
+Gift Table removed.
+Careless Wayfarer removed.
+Swooping Crescendo removed.
+Petty Punishment removed.
+Running Blind removed.
+Bonk removed.
+Laughing Hypocrite removed.
+Painful Memory removed.
+Lightning Strike Kite removed.
+Collection Cabinet removed.
+Reconnaissance Birds removed.
+Jagged Monstrosity removed.
+Desperate Brawler removed.
+Crumbling Wanderer removed.
+Eyes Bigger Than Your Stomach removed.
+Safety Blanket removed.
+
+Fracturing Figurine
+cost: {1}{W} => {W}
+pt: 2/2 => 2/1
+
+Rethink
+cost: {1}{W} => {2}{W}
+rules_text: Target creature gets +1/+3 until end of turn. If the creature is a Figment, draw a card. => Destroy target tapped creature or Figment.
+
+Collaborate
+cost: {1}{W} => {3}{W}
+rules_text: Scry 3.
+Draw two cards.
+Target opponent draws a card. => Draw a card.
+Creatures you control get +1/+0 until end of turn for each card you've drawn this turn.
+
+Frightened Steed
+cost: {1}{W} => {2}{W}
+rules_text: When this creature enters the battlefield, you may draw a card. If you do, shuffle this creature into its owner's library. => Vigilance
+When this creature enters the battlefield, you may draw a card. If you do, shuffle this creature into its owner's library.
+pt: 2/3 => 4/3
+
+Aggressive Calming
+
+Caring Company
+
+Party Popper
+cost: {2}{U} => {3}{U}
+rules_text: When this creature enters, you may tap target creature or artifact.
+When this creature leaves the battlefield, you may untap target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this creature enters or leaves the battlefield, tap or untap up to one target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+pt: 3/2 => 3/4
+
+Unstable Jitterer
+cost: {4}{U} => {5}{U}
+rules_text: When this creature enters or leaves the battlefield, each player discards a card.
+Timeout — You have not discarded a card this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => Ward {2}
+When this creature enters or leaves the battlefield, each player discards a card.
+pt: 4/4 => 5/5
+
+Meek Assistant
+cost: {3}{U} => {1}{U}
+rules_text: When this creature enters, draw a card, then discard a card.
+Timeout — You control one or more creatures. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => When this creature enters, draw a card, then discard a card.
+pt: 2/5 => 1/3
+
+Behavioral Analysis
+cost: {5}{U} => {1}{U}
+rules_text: Target opponent mills seven cards. For each nonland card milled this way, that player may mill a card. If they don't, you draw a card. => You may cast this spell as though it had flash if it is your turn.
+Target creature gets -4/-0 until end of turn.
+Draw a card.
+
+Versatile Matey
+cost: {U} => {1}{U}
+pt: 1/1 => 0/3
+
+Muddy Mystic
+cost: {3}{U} => {4}{U}
+rules_text: When this creature enters, you may tap target creature and put two stun counters on it. If you control an untapped land, Nurture a Fish. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)[/i] => Flash
+When this creature enters, you may tap target creature and put two stun counters on it. If you control an untapped land, Nurture a Fish. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)[/i]
+
+Slippery Muckfry
+rules_text: Flying
+When this creature leaves the battlefield, untap up to two target lands. => Flying
+When this creature leaves the battlefield, tap or untap up to two target lands.
+
+Jeering Backup
+
+Antagonizing Acquaintance
+cost: {U} => {2}{U}
+pt: 1/2 => 3/3
+
+Hamfisted Hogger
+rules_text: Menace
+When this creature enters, shuffle target creature you control into its owner's library. => Lifelink
+When this creature enters, shuffle target creature you control into its owner's library.
+pt: 5/6 => 3/7
+
+Forced to Forget
+cost: {1}{B} => {B}
+rules_text: This spell costs {1} more if it targets a non-Figment creature.
+Target creature gets -4/-4 until end of turn. => This spell costs {1} more if it targets a non-Figment creature.
+Target creature gets -3/-1 until end of turn.
+
+Oilbelcher
+cost: {1}{B} => {2}{B}
+rules_text: Whenever this creature becomes blocked, you may discard a card. If you do, draw a card. => Haste
+Whenever this creature becomes blocked, you may discard a card. If you do, draw a card.
+
+Roughhouser's Revel
+
+Infested Guest
+cost: {B} => {1}{B}
+rules_text: When this creature dies, you lose 2 life and create a 1/2 black and green Spider creature token with reach. => Reach
+When this creature dies, create a 1/2 black and green Spider creature token with reach.
+pt: 1/1 => 1/2
+
+Bug Burps
+
+Spine Tingler
+cost: {B} => {1}{B}
+pt: 1/1 => 1/2
+
+Frightening Friend
+cost: {B} => {2}{B}
+pt: 1/1 => 2/3
+
+Overstuffed Cannon
+rules_text: {1}{R}, {T}, Sacrifice this artifact: Target creature gets +X/+X until end of turn, where X is equal to the number of cards in your hand. => {1}{R}, {T}, Sacrifice this artifact: Destroy target nonbasic land. If you have five or more cards in your hand, instead, destroy target land.
+
+Mocking Musician
+cost: {1}{R} => {3}{R}
+rules_text: {T}, Sacrifice this creature: Target player discards a creature card. Activate only as a sorcery.
+Timeout — A player has drawn two or more cards this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => Haste
+{T}, Sacrifice this creature: Target player discards a card. Activate only as a sorcery.
+pt: 1/1 => 3/3
+
+Scarred Braggart
+
+Leafage Lineup
+type: Sorcery => Artifact Creature — Toy Soldier
+rules_text: Creature two 1/1 white and green Toy artifact creature tokens. Target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn. => When this creature enters, another target creature you control gets +X/+X and trample until end of turn, where X is the number of creatures you control.
+pt:  => 2/3
+
+Earthen Admiration
+
+Natural Green Thumb
+cost: {4}{G} => {3}{G}
+
+Fragrant Stinkbug
+rules_text: Flying
+When this creature attacks or blocks, you gain 1 life. => Deathtouch
+When this creature attacks or blocks, you gain 1 life.
+
+Honeypot
+cost: {3}{G} => {G}
+rules_text: Create two Food tokens. Create two 1/1 black and green Insect creature tokens with flying. => Draw a card. Create a Food token.
+
+Adaman Charger
+cost: {2}{G} => {5}{G}
+rules_text: When this creature becomes blocked, you may put a +1/+1 counter on it. => Trample
+When this creature becomes blocked, you may put a +1/+1 counter on it.
+pt: 2/2 => 5/5
+
+Snack Supplier
+cost: {2}{G} => {4}{G}
+rules_text: When this creature enters, create a Food token.
+{T}, Sacrifice this creature: If your life total changed this turn, you gain 3 life and draw a card. => Vigilance
+When this creature enters, create a Food token.
+{T}, Sacrifice this creature: If your life total changed this turn, you gain 3 life and draw a card.
+pt: 2/3 => 3/5
+
+Calming Companion
+cost: {1}{G} => {2}{G}
+pt: 1/2 => 0/4
+
+Faded Memory
+rules_text: When this creature enters the battlefield, exile target player's graveyard.
+Timeout — A player has five or more cards in their graveyard. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => When this creature enters the battlefield, exile up to one target player's graveyard.
+{1}, Sacrifice this creature: Target player mills three cards.
+
+Gift-Wrapped
+
+Treehome Troopers
+cost: {1}{W} => {2}{W}
+pt: 2/1 => 2/2
+
+Huggable Goofball
+cost: {3}{W} => {4}{W}
+rules_text: Defender
+Whenever this creature is dealt combat damage from another creature, tap that creature and put a stun counter on it. => Defender, lifelink
+pt: 0/6 => 1/7
+
+Insidious Idea
+type: Creature — Horror Figment => Sorcery
+rules_text: When this creature enters, draw a card.
+As long as you have five or more cards in hand, whenever this creature attacks, tap target creature defending player controls. => Draw two cards, then discard a card unless an opponent has discarded a card this turn.
+pt: 1/1 => 
+
+Put In Timeout
+
+Pentapunk
+rules_text: When this creature enters, draw a card.
+As long as you have five or more cards in hand, whenever this creature attacks, tap target creature an opponent controls and put a stun counter on it. => When this creature enters, draw a card.
+As long as you have five or more cards in hand, whenever this creature attacks, tap target creature an opponent controls and put two stun counters on it.
+
+Refresh
+
+Indecisive Sampler
+rules_text: Whenever another creature you control enters, you gain 1 life.
+{3}, {T}: Shuffle this creature into its owner's library. Target creature gains lifelink until end of turn. => Whenever one or more creatures you control attack, target opponent loses 1 life and you gain 1 life.
+{3}, {T}: Shuffle this creature into its owner's library. Target creature gains lifelink until end of turn.
+
+Deceitful Generosity
+cost: {2}{B} => {1}{B}
+rules_text: Whenever an opponent draws their second card each turn, they lose 2 life.
+{1}{B}{B}: Each player scries 1 and draws a card. => {1}{B}: Each player loses 1 life and draws a card. Activate only once each turn.
+
+Disingenuous Friend
+cost: {1}{B} => {4}{B}
+rules_text: Menace
+When this creature enters, choose target opponent. Until the end of your next turn, whenever you would draw a card, instead, you and the chosen opponent each draw a card.
+Timeout — No player has discarded a card this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => Deathtouch, haste
+When this creature attacks, target opponent may discard a card. If they do not, this creature gains menace until end of turn.
+Timeout — No player has discarded a card this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+pt: 3/2 => 4/2
+
+Stunting Pteranodon
+cost: {2}{R} => {3}{R}
+pt: 3/1 => 3/3
+
+Knock Some Sense Into You
+
+Distraction Tactics
+
+Treehome Sunreacher
+rules_text: Reach
+The first time another creature you control dies each turn, Nurture a tapped Forest. [i](Put a +1/+1 counter on target tapped Forest you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i] => Reach
+The first time another creature you control dies each turn, Nurture a Forest. [i](Put a +1/+1 counter on target Forest you control, or create a 1/1 green Forest Elemental land creature token.)[/i]
+
+Sneaky Beetle
+cost: {2}{G} => {1}{G}
+rules_text: Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
+{1}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn. => Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
+{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.
+pt: 2/3 => 1/2
+
+Unwanted Reminder
+cost: {2}{G} => {1}{G}
+pt: 3/3 => 3/1
+
+Cardboard Fortress
+cost: {2} => {5}
+rules_text: Defender
+{4}, {T}: Target creature you control can block an additional creature each combat until end of turn. => Defender
+{4}: Target creature you control can block an additional creature each combat until end of turn.
+pt: 0/4 => 0/8
+
+Gain The Edge
+cost: {3}{G}{W} => {2}{G}{W}
+
+Improvising Accountant
+cost: {2}{W}{U} => {1}{W}{U}
+pt: 3/4 => 2/3
+
+Kukkyonan Throneguard
+rules_text: Vigilance
+When this creature enters, if one or more permanents you controlled left the battlefield this turn, surveil 2.
+Whenever you scry or surveil, put a +1/+1 counter on this creature. => Lifelink
+When this creature enters, if one or more permanents you controlled left the battlefield this turn, surveil 2.
+Whenever you scry or surveil, put a +1/+1 counter on this creature.
+
+Site Surveyor
+cost: {1}{G}{W} => {2}{G}{W}
+rules_text: {1}, {T}: Nurture a Toy. Activate only if a land entered under your control this turn. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i] => {4}, {T}: Nurture a Toy. This ability costs {3} less if a land entered under your control this turn. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i]
+pt: 2/4 => 3/5
+
+Artsy Giftmaker
+cost: {4}{W} => {3}{W}
+pt: 3/5 => 2/4
+
+Gunk Swimmer
+cost: {4}{U} => {2}{U}
+pt: 4/4 => 3/2
+
+Kukkyonan Moatguard
+cost: {4}{U} => {3}{U}
+rules_text: Vigilance, ward {1}
+If this creature would leave the battlefield, exile it instead. You may cast it as long as it remains in exile.
+Whenever this creature or another creature enters under your control, put a +1/+1 counter on up to one target creature. This ability triggers only once each turn. => Vigilance, ward {1}
+Other creatures you control have ward {1}.
+If this creature would leave the battlefield, exile it instead. You may cast it as long as it remains in exile.
+
+Clumsy Admirer
+cost: {2}{B} => {1}{B}
+rules_text: When this creature leaves the battlefield, if it entered this turn, search your library for an artifact or creature card, reveal it, shuffle, then put the chosen card on the top of your library.
+Surprise {1}{B} => When this creature leaves the battlefield, if it entered this turn, search your library for an artifact or creature card, reveal it, put it into your hand, then shuffle.
+Surprise {3}{B}
+pt: 3/4 => 2/3
+
+Sadistic Assistant
+cost: {3}{B} => {2}{B}
+pt: 3/5 => 1/4
+
+Squish The Guts
+cost: {4}{B}{B} => {3}{B}{B}
+
+Overcoming Fear
+cost: {2}{B} => {1}{B}
+rules_text: Whenever a creature you control becomes blocked by one or more creatures, you may lose 1 life. If you do, choose one that hasn't been chosen this turn —
+• Draw a card.
+• Target attacking creature gets +2/+0 until end of turn.
+• Target attacking creature gets +0/+2 until end of turn. => Whenever a creature you control becomes blocked, you may lose 1 life. If you do, choose one that hasn't been chosen this turn —
+• Draw a card.
+• Target attacking creature gets +2/+0 until end of turn.
+• Target attacking creature gets +0/+2 until end of turn.
+
+Harold, the Un-Forgotten
+cost: {2}{B} => {1}{B}
+pt: 3/1 => 0/2
+
+Adaman Nestguard
+cost: {4}{R} => {3}{R}
+rules_text: Creatures you control with less power than this creature have haste.
+{1}{R}: Put a +1/+1 counter on target creature you control with less power than this creature. Activate only as a sorcery. => Creatures you control with less power than this creature have haste.
+{1}{R}: Target attacking creature with less power than this creature gets +1/+1 until end of turn.
+pt: 4/5 => 4/4
+
+Megamuckfish
+rules_text: Trample
+Land creatures you control get +3/+3 and have trample and vigilance.
+Whenever a noncreature land you control enters, Nurture a tapped Forest. => Trample
+Land creatures you control get +3/+3 and have trample and vigilance.
+Whenever a noncreature land you control enters, Nurture a Forest.
+
+Dino Rodeo
+cost: {2}{G} => {1}{G}
+rules_text: Creatures you control with aone or more counters on them have vigilance and trample.
+{6}{G}{G}: Put a +1/+1 counter on each creature you control. => Creatures you control with +1/+1 counters on them have vigilance and trample.
+{6}{G}{G}: Put a +1/+1 counter on each creature you control.
+
+Lasting Trauma
+cost: {4}{G}{G} => {2}{G}{G}
+
+Jaax, Excitable Prodigy
+rules_text: Whenever you cast an instant or sorcery spell, if you spent mana equal to its mana value to cast it, you may exile it instead of putting it into your graveyard as it resolves with three time counters and give it suspend if it does not have it. If you do, imagine X, where X is the exiled spell's mana value. [i](Put the top card of your library face down as a X/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Prowess
+Whenever you cast a spell from anywhere other than your hand, creatures you control get +1/+0 until end of turn. If it was a noncreature spell, you may copy it and choose new targets for the copies. [i](Copies of permanents become tokens.)[/i]
+pt: 2/5 => 2/3
+
+Mahaba, Gentle Yet Giant
+rules_text: Flash
+The first time Mahaba or another creature with mana value 4 or greater you control enters on each of your turns, Nurture a tapped Forest.
+At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater. => Flash
+When Mahaba enters, Nurture a Forest. [i](Put a +1/+1 counter on target Forest you control, or create a 1/1 green Forest Elemental land creature token.)[/i]
+At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater.
+
+Minia, Crashing Through
+cost: {2}{B}{R} => {1}{B}{R}
+pt: 1/2 => 1/1
+
+Darren, Bug Gourmand
+cost: {1}{B}{G} => {B}{G}
+pt: 2/2 => 1/1
+
+Cruel Prankster
+cost: {2}{B} => {1}{B}
+pt: 3/3 => 2/2
+
+Nature Walk
+rules_text: When this enchantment enters, search your library for a basic land card, reveal it, put it onto the battlefield and shuffle. Then, imagine X, where X is the number of untapped lands you control.
+{G}{G}{G}, Sacrifice this enchantment: Untap each land you control. Activate only as a sorcery. => When this enchantment enters, search your library for up to three basic lands, put them onto the battlefield tapped, then shuffle.
+{G}{G}{G}, Sacrifice this enchantment: Untap each land you control. Activate only as a sorcery.
+
+Tsukon, Prideful Monarch
+cost: {1}{W}{U}{B} => {W}{U}{B}
+pt: 3/4 => 1/4
+
+
+VERSION 13 CHANGELOG
 ====================
 
 

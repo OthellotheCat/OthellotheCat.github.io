@@ -1,11 +1,11 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Gift Table",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Artifact",
-			"collector_number": "16",
+			"name": "Eager Gift-Stomper",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elephant Reveler",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/0.png"
 			}
@@ -63,7 +63,7 @@
 		{
 			"name": "Fracturing Figurine",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Artifact Creature — Toy",
 			"collector_number": "14",
 			"image_uris": {
@@ -73,7 +73,7 @@
 		{
 			"name": "Rethink",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/8.png"
 			}
@@ -93,7 +93,7 @@
 		{
 			"name": "Collaborate",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Instant",
 			"collector_number": "8",
 			"image_uris": {
@@ -133,7 +133,7 @@
 		{
 			"name": "Frightened Steed",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Horse Scout",
 			"collector_number": "15",
 			"image_uris": {
@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "Aggressive Calming",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
 			"collector_number": "1",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Caring Company",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
 			"collector_number": "6",
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Figment",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/18.png"
 			}
@@ -193,7 +193,7 @@
 		{
 			"name": "Party Popper",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Cat Reveler",
 			"collector_number": "62",
 			"image_uris": {
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/21.png"
 			}
@@ -223,7 +223,7 @@
 		{
 			"name": "Unstable Jitterer",
 			"rarity": "common",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{5}{U}",
 			"type": "Creature — Horror Figment",
 			"collector_number": "78",
 			"image_uris": {
@@ -232,8 +232,8 @@
 		},
 		{
 			"name": "Meek Assistant",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scientist",
 			"collector_number": "58",
 			"image_uris": {
@@ -243,7 +243,7 @@
 		{
 			"name": "Behavioral Analysis",
 			"rarity": "common",
-			"mana_cost": "{5}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
@@ -261,10 +261,10 @@
 			}
 		},
 		{
-			"name": "Careless Wayfarer",
+			"name": "Careless Wayfaring",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Pirate Scout",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
 			"collector_number": "46",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/26.png"
@@ -273,7 +273,7 @@
 		{
 			"name": "Versatile Matey",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Figment Pirate",
 			"collector_number": "79",
 			"image_uris": {
@@ -293,7 +293,7 @@
 		{
 			"name": "Muddy Mystic",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "60",
 			"image_uris": {
@@ -331,18 +331,18 @@
 			}
 		},
 		{
-			"name": "Swooping Crescendo",
+			"name": "Treehome Lullaby",
 			"rarity": "common",
-			"mana_cost": "{4}{U}",
-			"type": "Creature — Bird",
-			"collector_number": "76",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/33.png"
 			}
 		},
 		{
 			"name": "Slippery Muckfry",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elemental Fish",
 			"collector_number": "73",
@@ -355,14 +355,14 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/35.png"
 			}
 		},
 		{
 			"name": "Jeering Backup",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Figment",
 			"collector_number": "56",
@@ -373,7 +373,7 @@
 		{
 			"name": "Antagonizing Acquaintance",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Figment",
 			"collector_number": "42",
 			"image_uris": {
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Toy",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/41.png"
 			}
@@ -423,9 +423,9 @@
 		{
 			"name": "Forced to Forget",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/42.png"
 			}
@@ -433,16 +433,16 @@
 		{
 			"name": "Oilbelcher",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Lizard Devil Berserker",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/43.png"
 			}
 		},
 		{
 			"name": "Roughhouser's Revel",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "109",
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/46.png"
 			}
@@ -473,16 +473,16 @@
 		{
 			"name": "Infested Guest",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Figment",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/47.png"
 			}
 		},
 		{
 			"name": "Bug Burps",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
 			"collector_number": "82",
@@ -505,17 +505,17 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/50.png"
 			}
 		},
 		{
-			"name": "Petty Punishment",
+			"name": "Favoritism",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/52.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Orc Advisor",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/53.png"
 			}
@@ -543,19 +543,19 @@
 		{
 			"name": "Spine Tingler",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Spider",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/54.png"
 			}
 		},
 		{
-			"name": "Running Blind",
+			"name": "Unsettling Phobia",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "110",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror Figment",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/55.png"
 			}
@@ -563,9 +563,9 @@
 		{
 			"name": "Frightening Friend",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Figment",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/56.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Lizard Devil Pirate",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/61.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/66.png"
 			}
@@ -691,21 +691,21 @@
 			}
 		},
 		{
-			"name": "Bonk",
+			"name": "Bonk!",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/69.png"
 			}
 		},
 		{
-			"name": "Laughing Hypocrite",
+			"name": "Hypocrisy",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human",
-			"collector_number": "142",
+			"type": "Sorcery",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/70.png"
 			}
@@ -713,7 +713,7 @@
 		{
 			"name": "Mocking Musician",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Creature — Lizard Devil Pirate Bard",
 			"collector_number": "147",
 			"image_uris": {
@@ -725,14 +725,14 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Figment Knight",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/72.png"
 			}
 		},
 		{
 			"name": "Scarred Braggart",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin",
 			"collector_number": "155",
@@ -741,11 +741,11 @@
 			}
 		},
 		{
-			"name": "Painful Memory",
+			"name": "Rad Stunts",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Horror Figment",
-			"collector_number": "149",
+			"type": "Enchantment — Aura",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/74.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Figment",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/75.png"
 			}
@@ -772,9 +772,9 @@
 		},
 		{
 			"name": "Leafage Lineup",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Sorcery",
+			"type": "Artifact Creature — Toy Soldier",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/77.png"
@@ -802,7 +802,7 @@
 		},
 		{
 			"name": "Earthen Admiration",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "171",
@@ -823,7 +823,7 @@
 		{
 			"name": "Natural Green Thumb",
 			"rarity": "common",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Creature — Plant Shaman",
 			"collector_number": "188",
 			"image_uris": {
@@ -845,7 +845,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/84.png"
 			}
@@ -853,7 +853,7 @@
 		{
 			"name": "Honeypot",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "179",
 			"image_uris": {
@@ -903,7 +903,7 @@
 		{
 			"name": "Adaman Charger",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{5}{G}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "161",
 			"image_uris": {
@@ -913,7 +913,7 @@
 		{
 			"name": "Snack Supplier",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{4}{G}",
 			"type": "Creature — Figment",
 			"collector_number": "194",
 			"image_uris": {
@@ -943,7 +943,7 @@
 		{
 			"name": "Calming Companion",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Figment",
 			"collector_number": "165",
 			"image_uris": {
@@ -955,7 +955,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/95.png"
 			}
@@ -971,11 +971,11 @@
 			}
 		},
 		{
-			"name": "Lightning Strike Kite",
+			"name": "Unlucky Kite-Flier",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact",
-			"collector_number": "257",
+			"type": "Creature — Figment",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/97.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/98.png"
 			}
@@ -1162,20 +1162,20 @@
 		},
 		{
 			"name": "Gift-Wrapped",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/116.png"
 			}
 		},
 		{
-			"name": "Collection Cabinet",
+			"name": "Pristine Collector",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact",
-			"collector_number": "9",
+			"type": "Artifact Creature — Toy",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/117.png"
 			}
@@ -1195,15 +1195,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/119.png"
 			}
 		},
 		{
 			"name": "Treehome Troopers",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Toy Soldier",
 			"collector_number": "35",
 			"image_uris": {
@@ -1215,7 +1215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/121.png"
 			}
@@ -1242,10 +1242,10 @@
 		},
 		{
 			"name": "Huggable Goofball",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
 			"type": "Creature — Figment",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/124.png"
 			}
@@ -1262,9 +1262,9 @@
 		},
 		{
 			"name": "Insidious Idea",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{U}{U}",
-			"type": "Creature — Horror Figment",
+			"type": "Sorcery",
 			"collector_number": "55",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/126.png"
@@ -1272,7 +1272,7 @@
 		},
 		{
 			"name": "Put In Timeout",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "67",
@@ -1312,20 +1312,20 @@
 		},
 		{
 			"name": "Refresh",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/131.png"
 			}
 		},
 		{
-			"name": "Reconnaissance Birds",
+			"name": "Sky-High Recon",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Bird Scout",
-			"collector_number": "68",
+			"type": "Instant",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/132.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/135.png"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Artifact Creature — Toy",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/136.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/137.png"
 			}
@@ -1385,17 +1385,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Horror Figment",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/138.png"
 			}
 		},
 		{
-			"name": "Jagged Monstrosity",
-			"rarity": "uncommon",
+			"name": "Jagged Memories",
+			"rarity": "common",
 			"mana_cost": "{5}{B}",
-			"type": "Creature — Horror Figment",
-			"collector_number": "102",
+			"type": "Sorcery",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/139.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/140.png"
 			}
@@ -1415,15 +1415,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Orc",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/141.png"
 			}
 		},
 		{
 			"name": "Deceitful Generosity",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "86",
 			"image_uris": {
@@ -1433,7 +1433,7 @@
 		{
 			"name": "Disingenuous Friend",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Creature — Figment",
 			"collector_number": "87",
 			"image_uris": {
@@ -1465,7 +1465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/146.png"
 			}
@@ -1481,10 +1481,10 @@
 			}
 		},
 		{
-			"name": "Desperate Brawler",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Orc Pirate",
+			"name": "Desperate Brawl",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/148.png"
@@ -1495,7 +1495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Minotaur Warrior",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/149.png"
 			}
@@ -1511,11 +1511,11 @@
 			}
 		},
 		{
-			"name": "Crumbling Wanderer",
+			"name": "Adaman Rockstomper",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Creature — -Elemental",
-			"collector_number": "130",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/151.png"
 			}
@@ -1533,7 +1533,7 @@
 		{
 			"name": "Stunting Pteranodon",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "156",
 			"image_uris": {
@@ -1552,7 +1552,7 @@
 		},
 		{
 			"name": "Knock Some Sense Into You",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
 			"collector_number": "180",
@@ -1562,7 +1562,7 @@
 		},
 		{
 			"name": "Distraction Tactics",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "169",
@@ -1585,17 +1585,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/158.png"
 			}
 		},
 		{
-			"name": "Eyes Bigger Than Your Stomach",
+			"name": "Golodoff Glutton",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "172",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/159.png"
 			}
@@ -1633,7 +1633,7 @@
 		{
 			"name": "Sneaky Beetle",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
 			"collector_number": "195",
 			"image_uris": {
@@ -1643,7 +1643,7 @@
 		{
 			"name": "Unwanted Reminder",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Horror Figment",
 			"collector_number": "199",
 			"image_uris": {
@@ -1673,7 +1673,7 @@
 		{
 			"name": "Cardboard Fortress",
 			"rarity": "uncommon",
-			"mana_cost": "{2}",
+			"mana_cost": "{5}",
 			"type": "Artifact Creature — Wall",
 			"collector_number": "250",
 			"image_uris": {
@@ -1685,7 +1685,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/168.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Figment Advisor Reveler",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/171.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Figment",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/173.png"
 			}
@@ -1763,7 +1763,7 @@
 		{
 			"name": "Gain The Edge",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{W}",
+			"mana_cost": "{2}{G}{W}",
 			"type": "Sorcery",
 			"collector_number": "215",
 			"image_uris": {
@@ -1785,7 +1785,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/178.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/180.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Elemental Fish",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/183.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/186.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Figment",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/187.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/188.png"
 			}
@@ -1903,9 +1903,9 @@
 		{
 			"name": "Improvising Accountant",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/190.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Figment Knight",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/191.png"
 			}
@@ -1923,7 +1923,7 @@
 		{
 			"name": "Site Surveyor",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Kithkin Scout",
 			"collector_number": "241",
 			"image_uris": {
@@ -1965,7 +1965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Devil",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/196.png"
 			}
@@ -1985,17 +1985,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/198.png"
 			}
 		},
 		{
-			"name": "Safety Blanket",
+			"name": "Golodoff Wanderer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
-			"type": "Artifact — Equipment",
-			"collector_number": "235",
+			"type": "Creature — Human Ranger",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/199.png"
 			}
@@ -2003,7 +2003,7 @@
 		{
 			"name": "Artsy Giftmaker",
 			"rarity": "rare",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Elephant Artificer",
 			"collector_number": "2",
 			"image_uris": {
@@ -2015,7 +2015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Artifact Creature — Toy Golem",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/201.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Toy Soldier",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/202.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/204.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/206.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Reveler",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/208.png"
 			}
@@ -2113,7 +2113,7 @@
 		{
 			"name": "Gunk Swimmer",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Elemental Fish",
 			"collector_number": "52",
 			"image_uris": {
@@ -2123,7 +2123,7 @@
 		{
 			"name": "Kukkyonan Moatguard",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Figment Knight",
 			"collector_number": "57",
 			"image_uris": {
@@ -2155,7 +2155,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Figment",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/215.png"
 			}
@@ -2163,7 +2163,7 @@
 		{
 			"name": "Clumsy Admirer",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Figment",
 			"collector_number": "83",
 			"image_uris": {
@@ -2173,9 +2173,9 @@
 		{
 			"name": "Sadistic Assistant",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror Figment Scientist",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/217.png"
 			}
@@ -2193,9 +2193,9 @@
 		{
 			"name": "Squish The Guts",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/219.png"
 			}
@@ -2213,9 +2213,9 @@
 		{
 			"name": "Overcoming Fear",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/221.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/222.png"
 			}
@@ -2233,9 +2233,9 @@
 		{
 			"name": "Harold, the Un-Forgotten",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Figment Warlock Villain",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/223.png"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Crab Pirate Bard",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/224.png"
 			}
@@ -2263,7 +2263,7 @@
 		{
 			"name": "Adaman Nestguard",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "121",
 			"image_uris": {
@@ -2285,7 +2285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/228.png"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Orc Shaman",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/231.png"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/234.png"
 			}
@@ -2363,7 +2363,7 @@
 		{
 			"name": "Dino Rodeo",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "168",
 			"image_uris": {
@@ -2373,7 +2373,7 @@
 		{
 			"name": "Lasting Trauma",
 			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Horror Figment",
 			"collector_number": "181",
 			"image_uris": {
@@ -2455,7 +2455,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Orc Sorceror",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/245.png"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Scorpion Dragon Pirate",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/248.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}{U}",
 			"type": "Legendary Creature — Giant Shaman",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/249.png"
 			}
@@ -2503,9 +2503,9 @@
 		{
 			"name": "Minia, Crashing Through",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{R}",
+			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Azra Berserker Performer",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/250.png"
 			}
@@ -2513,7 +2513,7 @@
 		{
 			"name": "Darren, Bug Gourmand",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Human Druid",
 			"collector_number": "210",
 			"image_uris": {
@@ -2585,7 +2585,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/258.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Dog Knight",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/259.png"
 			}
@@ -2605,7 +2605,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Cat Figment",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/260.png"
 			}
@@ -2653,7 +2653,7 @@
 		{
 			"name": "Cruel Prankster",
 			"rarity": "mythic",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Devil",
 			"collector_number": "85",
 			"image_uris": {
@@ -2685,7 +2685,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Creature — Figment Advisor",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/268.png"
 			}
@@ -2695,7 +2695,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Dinosaur Figment",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/269.png"
 			}
@@ -2733,7 +2733,7 @@
 		{
 			"name": "Tsukon, Prideful Monarch",
 			"rarity": "mythic",
-			"mana_cost": "{1}{W}{U}{B}",
+			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "245",
 			"image_uris": {
@@ -2785,7 +2785,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Planeswalker — Quintorious",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/278.png"
 			}
@@ -3075,51 +3075,51 @@
 	1 Figmata, Bringer of Whimsy
 	1 The Forgetting
 [uncommon(3)]
+	4 Eager Gift-Stomper
+	4 Aggressive Calming
+	4 Caring Company
+	4 Meek Assistant
+	4 Slippery Muckfry
 	4 Shut Up
+	4 Jeering Backup
+	4 Roughhouser's Revel
+	4 Bug Burps
+	4 Scarred Braggart
+	4 Leafage Lineup
+	4 Earthen Admiration
 	4 Well-Meaning Mastiff
-	4 Gift-Wrapped
-	4 Collection Cabinet
+	4 Pristine Collector
 	4 Feathered Escort
 	4 Make It Louder
-	4 Treehome Troopers
 	4 Head In The Clouds
 	4 Underwhelming Surprise
 	4 Blueprint Messenger
-	4 Huggable Goofball
 	4 Pleasant Surprise
-	4 Insidious Idea
-	4 Put In Timeout
 	4 Pentapunk
 	4 Blatant Bribery
 	4 Head In The Mud
-	4 Refresh
 	4 Mine To Keep
 	4 Amused Onlooker
 	4 Spoiled Surprise
 	4 Sentimental Mainstay
 	4 Mine To Break
 	4 Shadowy Remnant
-	4 Jagged Monstrosity
 	4 Gregarious Garcon
 	4 Indecisive Sampler
-	4 Deceitful Generosity
 	4 Disingenuous Friend
 	4 Face Your Fears
 	4 Lightning-Breathing Dragon
 	4 Adaman Scrounger
 	4 Mine To Burn
-	4 Desperate Brawler
 	4 Competitive Headbutter
 	4 Face the Flames
-	4 Crumbling Wanderer
+	4 Adaman Rockstomper
 	4 Make It Faster
 	4 Stunting Pteranodon
 	4 Headway
-	4 Knock Some Sense Into You
-	4 Distraction Tactics
 	4 Water The Roots
 	4 Face the Feast
-	4 Eyes Bigger Than Your Stomach
+	4 Golodoff Glutton
 	4 Make It Bigger
 	4 Head In The Trees
 	4 Treehome Sunreacher
@@ -3159,9 +3159,8 @@
 	4 Ruthless Bully
 	4 Cajoled Accomplice
 	4 Push Yourself
-	4 Safety Blanket
+	4 Golodoff Wanderer
 [common(6)]
-	8 Gift Table
 	8 Silly Goose
 	8 Sneak a Peek
 	8 Threadbare Dolly
@@ -3177,26 +3176,21 @@
 	8 Frightened Steed
 	8 Tactical Falcon
 	8 Slippery Streamfish
-	8 Aggressive Calming
-	8 Caring Company
 	8 Prim Pal
 	8 Party Popper
 	8 Cake Inspector
 	8 Scold
 	8 Unstable Jitterer
-	8 Meek Assistant
 	8 Behavioral Analysis
 	8 Swell Rider
-	8 Careless Wayfarer
+	8 Careless Wayfaring
 	8 Versatile Matey
 	8 Puddle Diver
 	8 Muddy Mystic
 	8 Dazzling Opulence
 	8 Precise Planner
 	8 Sweet Dreams
-	8 Swooping Crescendo
-	8 Slippery Muckfry
-	8 Jeering Backup
+	8 Treehome Lullaby
 	8 Antagonizing Acquaintance
 	8 Hamfisted Hogger
 	8 Ungrateful Snob
@@ -3204,18 +3198,16 @@
 	8 Guided Dissection
 	8 Forced to Forget
 	8 Oilbelcher
-	8 Roughhouser's Revel
 	8 Antsy Showboater
 	8 Find Your Moment
 	8 Infested Guest
-	8 Bug Burps
 	8 Entree Course
 	8 Standoffish Softie
-	8 Petty Punishment
+	8 Favoritism
 	8 Slap
 	8 Gossip Girl
 	8 Spine Tingler
-	8 Running Blind
+	8 Unsettling Phobia
 	8 Frightening Friend
 	8 Think, Think!
 	8 Rambunctious Blastfire
@@ -3229,18 +3221,15 @@
 	8 Aspiring Tyrant
 	8 Dangerous Idea
 	8 Dynamite Dino
-	8 Bonk
-	8 Laughing Hypocrite
+	8 Bonk!
+	8 Hypocrisy
 	8 Mocking Musician
 	8 Bribed Authority
-	8 Scarred Braggart
-	8 Painful Memory
+	8 Rad Stunts
 	8 Brash Buddy
 	8 Drop Point
-	8 Leafage Lineup
 	8 Leafy Launcher
 	8 Propogating Lichen
-	8 Earthen Admiration
 	8 Treehome Greenhouse
 	8 Natural Green Thumb
 	8 Appetizer Course
@@ -3257,7 +3246,7 @@
 	8 Calming Companion
 	8 Pet Rock
 	8 Great Stick
-	8 Lightning Strike Kite
+	8 Unlucky Kite-Flier
 	8 Telekaleidoscope
 	8 Faded Memory
 	8 Cloudscape
@@ -3275,9 +3264,19 @@
 	8 Epic Arena
 	8 Putrid Backwood
 	8 Unruly Grasslands
-	8 Reconnaissance Birds
+	8 Gift-Wrapped
+	8 Treehome Troopers
+	8 Huggable Goofball
+	8 Insidious Idea
+	8 Put In Timeout
+	8 Refresh
+	8 Sky-High Recon
+	8 Jagged Memories
+	8 Deceitful Generosity
+	8 Desperate Brawl
+	8 Knock Some Sense Into You
+	8 Distraction Tactics
 [common | masterpiece(1)]
-	8 Gift Table
 	8 Silly Goose
 	8 Sneak a Peek
 	8 Threadbare Dolly
@@ -3293,26 +3292,21 @@
 	8 Frightened Steed
 	8 Tactical Falcon
 	8 Slippery Streamfish
-	8 Aggressive Calming
-	8 Caring Company
 	8 Prim Pal
 	8 Party Popper
 	8 Cake Inspector
 	8 Scold
 	8 Unstable Jitterer
-	8 Meek Assistant
 	8 Behavioral Analysis
 	8 Swell Rider
-	8 Careless Wayfarer
+	8 Careless Wayfaring
 	8 Versatile Matey
 	8 Puddle Diver
 	8 Muddy Mystic
 	8 Dazzling Opulence
 	8 Precise Planner
 	8 Sweet Dreams
-	8 Swooping Crescendo
-	8 Slippery Muckfry
-	8 Jeering Backup
+	8 Treehome Lullaby
 	8 Antagonizing Acquaintance
 	8 Hamfisted Hogger
 	8 Ungrateful Snob
@@ -3320,18 +3314,16 @@
 	8 Guided Dissection
 	8 Forced to Forget
 	8 Oilbelcher
-	8 Roughhouser's Revel
 	8 Antsy Showboater
 	8 Find Your Moment
 	8 Infested Guest
-	8 Bug Burps
 	8 Entree Course
 	8 Standoffish Softie
-	8 Petty Punishment
+	8 Favoritism
 	8 Slap
 	8 Gossip Girl
 	8 Spine Tingler
-	8 Running Blind
+	8 Unsettling Phobia
 	8 Frightening Friend
 	8 Think, Think!
 	8 Rambunctious Blastfire
@@ -3345,18 +3337,15 @@
 	8 Aspiring Tyrant
 	8 Dangerous Idea
 	8 Dynamite Dino
-	8 Bonk
-	8 Laughing Hypocrite
+	8 Bonk!
+	8 Hypocrisy
 	8 Mocking Musician
 	8 Bribed Authority
-	8 Scarred Braggart
-	8 Painful Memory
+	8 Rad Stunts
 	8 Brash Buddy
 	8 Drop Point
-	8 Leafage Lineup
 	8 Leafy Launcher
 	8 Propogating Lichen
-	8 Earthen Admiration
 	8 Treehome Greenhouse
 	8 Natural Green Thumb
 	8 Appetizer Course
@@ -3373,7 +3362,7 @@
 	8 Calming Companion
 	8 Pet Rock
 	8 Great Stick
-	8 Lightning Strike Kite
+	8 Unlucky Kite-Flier
 	8 Telekaleidoscope
 	8 Faded Memory
 	8 Cloudscape
@@ -3391,9 +3380,20 @@
 	8 Epic Arena
 	8 Putrid Backwood
 	8 Unruly Grasslands
-	8 Reconnaissance Birds
+	8 Gift-Wrapped
+	8 Treehome Troopers
+	8 Huggable Goofball
+	8 Insidious Idea
+	8 Put In Timeout
+	8 Refresh
+	8 Sky-High Recon
+	8 Jagged Memories
+	8 Deceitful Generosity
+	8 Desperate Brawl
+	8 Knock Some Sense Into You
+	8 Distraction Tactics
 [foil(1)]
-	12 Gift Table
+	6 Eager Gift-Stomper
 	12 Silly Goose
 	12 Sneak a Peek
 	12 Threadbare Dolly
@@ -3409,27 +3409,27 @@
 	12 Frightened Steed
 	12 Tactical Falcon
 	12 Slippery Streamfish
-	12 Aggressive Calming
-	12 Caring Company
+	6 Aggressive Calming
+	6 Caring Company
 	12 Prim Pal
 	12 Party Popper
 	12 Cake Inspector
 	12 Scold
 	12 Unstable Jitterer
-	12 Meek Assistant
+	6 Meek Assistant
 	12 Behavioral Analysis
 	12 Swell Rider
-	12 Careless Wayfarer
+	12 Careless Wayfaring
 	12 Versatile Matey
 	12 Puddle Diver
 	12 Muddy Mystic
 	12 Dazzling Opulence
 	12 Precise Planner
 	12 Sweet Dreams
-	12 Swooping Crescendo
-	12 Slippery Muckfry
+	12 Treehome Lullaby
+	6 Slippery Muckfry
 	6 Shut Up
-	12 Jeering Backup
+	6 Jeering Backup
 	12 Antagonizing Acquaintance
 	12 Hamfisted Hogger
 	12 Ungrateful Snob
@@ -3437,18 +3437,18 @@
 	12 Guided Dissection
 	12 Forced to Forget
 	12 Oilbelcher
-	12 Roughhouser's Revel
+	6 Roughhouser's Revel
 	12 Antsy Showboater
 	12 Find Your Moment
 	12 Infested Guest
-	12 Bug Burps
+	6 Bug Burps
 	12 Entree Course
 	12 Standoffish Softie
-	12 Petty Punishment
+	12 Favoritism
 	12 Slap
 	12 Gossip Girl
 	12 Spine Tingler
-	12 Running Blind
+	12 Unsettling Phobia
 	12 Frightening Friend
 	12 Think, Think!
 	12 Rambunctious Blastfire
@@ -3462,18 +3462,18 @@
 	12 Aspiring Tyrant
 	12 Dangerous Idea
 	12 Dynamite Dino
-	12 Bonk
-	12 Laughing Hypocrite
+	12 Bonk!
+	12 Hypocrisy
 	12 Mocking Musician
 	12 Bribed Authority
-	12 Scarred Braggart
-	12 Painful Memory
+	6 Scarred Braggart
+	12 Rad Stunts
 	12 Brash Buddy
 	12 Drop Point
-	12 Leafage Lineup
+	6 Leafage Lineup
 	12 Leafy Launcher
 	12 Propogating Lichen
-	12 Earthen Admiration
+	6 Earthen Admiration
 	12 Treehome Greenhouse
 	12 Natural Green Thumb
 	12 Appetizer Course
@@ -3490,7 +3490,7 @@
 	12 Calming Companion
 	12 Pet Rock
 	12 Great Stick
-	12 Lightning Strike Kite
+	12 Unlucky Kite-Flier
 	12 Telekaleidoscope
 	12 Faded Memory
 	12 Cloudscape
@@ -3509,50 +3509,50 @@
 	12 Putrid Backwood
 	12 Unruly Grasslands
 	6 Well-Meaning Mastiff
-	6 Gift-Wrapped
-	6 Collection Cabinet
+	12 Gift-Wrapped
+	6 Pristine Collector
 	6 Feathered Escort
 	6 Make It Louder
-	6 Treehome Troopers
+	12 Treehome Troopers
 	6 Head In The Clouds
 	6 Underwhelming Surprise
 	6 Blueprint Messenger
-	6 Huggable Goofball
+	12 Huggable Goofball
 	6 Pleasant Surprise
-	6 Insidious Idea
-	6 Put In Timeout
+	12 Insidious Idea
+	12 Put In Timeout
 	6 Pentapunk
 	6 Blatant Bribery
 	6 Head In The Mud
-	6 Refresh
-	12 Reconnaissance Birds
+	12 Refresh
+	12 Sky-High Recon
 	6 Mine To Keep
 	6 Amused Onlooker
 	6 Spoiled Surprise
 	6 Sentimental Mainstay
 	6 Mine To Break
 	6 Shadowy Remnant
-	6 Jagged Monstrosity
+	12 Jagged Memories
 	6 Gregarious Garcon
 	6 Indecisive Sampler
-	6 Deceitful Generosity
+	12 Deceitful Generosity
 	6 Disingenuous Friend
 	6 Face Your Fears
 	6 Lightning-Breathing Dragon
 	6 Adaman Scrounger
 	6 Mine To Burn
-	6 Desperate Brawler
+	12 Desperate Brawl
 	6 Competitive Headbutter
 	6 Face the Flames
-	6 Crumbling Wanderer
+	6 Adaman Rockstomper
 	6 Make It Faster
 	6 Stunting Pteranodon
 	6 Headway
-	6 Knock Some Sense Into You
-	6 Distraction Tactics
+	12 Knock Some Sense Into You
+	12 Distraction Tactics
 	6 Water The Roots
 	6 Face the Feast
-	6 Eyes Bigger Than Your Stomach
+	6 Golodoff Glutton
 	6 Make It Bigger
 	6 Head In The Trees
 	6 Treehome Sunreacher
@@ -3592,7 +3592,7 @@
 	6 Ruthless Bully
 	6 Cajoled Accomplice
 	6 Push Yourself
-	6 Safety Blanket
+	6 Golodoff Wanderer
 	2 Artsy Giftmaker
 	2 Hulking Repairdoll
 	2 Play-Worn Soldier
@@ -3675,7 +3675,7 @@
 	1 Figmata, Bringer of Whimsy
 	1 The Forgetting
 [wildcard(1)]
-	6 Gift Table
+	15 Eager Gift-Stomper
 	6 Silly Goose
 	6 Sneak a Peek
 	6 Threadbare Dolly
@@ -3691,27 +3691,27 @@
 	6 Frightened Steed
 	6 Tactical Falcon
 	6 Slippery Streamfish
-	6 Aggressive Calming
-	6 Caring Company
+	15 Aggressive Calming
+	15 Caring Company
 	6 Prim Pal
 	6 Party Popper
 	6 Cake Inspector
 	6 Scold
 	6 Unstable Jitterer
-	6 Meek Assistant
+	15 Meek Assistant
 	6 Behavioral Analysis
 	6 Swell Rider
-	6 Careless Wayfarer
+	6 Careless Wayfaring
 	6 Versatile Matey
 	6 Puddle Diver
 	6 Muddy Mystic
 	6 Dazzling Opulence
 	6 Precise Planner
 	6 Sweet Dreams
-	6 Swooping Crescendo
-	6 Slippery Muckfry
+	6 Treehome Lullaby
+	15 Slippery Muckfry
 	15 Shut Up
-	6 Jeering Backup
+	15 Jeering Backup
 	6 Antagonizing Acquaintance
 	6 Hamfisted Hogger
 	6 Ungrateful Snob
@@ -3719,18 +3719,18 @@
 	6 Guided Dissection
 	6 Forced to Forget
 	6 Oilbelcher
-	6 Roughhouser's Revel
+	15 Roughhouser's Revel
 	6 Antsy Showboater
 	6 Find Your Moment
 	6 Infested Guest
-	6 Bug Burps
+	15 Bug Burps
 	6 Entree Course
 	6 Standoffish Softie
-	6 Petty Punishment
+	6 Favoritism
 	6 Slap
 	6 Gossip Girl
 	6 Spine Tingler
-	6 Running Blind
+	6 Unsettling Phobia
 	6 Frightening Friend
 	6 Think, Think!
 	6 Rambunctious Blastfire
@@ -3744,18 +3744,18 @@
 	6 Aspiring Tyrant
 	6 Dangerous Idea
 	6 Dynamite Dino
-	6 Bonk
-	6 Laughing Hypocrite
+	6 Bonk!
+	6 Hypocrisy
 	6 Mocking Musician
 	6 Bribed Authority
-	6 Scarred Braggart
-	6 Painful Memory
+	15 Scarred Braggart
+	6 Rad Stunts
 	6 Brash Buddy
 	6 Drop Point
-	6 Leafage Lineup
+	15 Leafage Lineup
 	6 Leafy Launcher
 	6 Propogating Lichen
-	6 Earthen Admiration
+	15 Earthen Admiration
 	6 Treehome Greenhouse
 	6 Natural Green Thumb
 	6 Appetizer Course
@@ -3772,7 +3772,7 @@
 	6 Calming Companion
 	6 Pet Rock
 	6 Great Stick
-	6 Lightning Strike Kite
+	6 Unlucky Kite-Flier
 	6 Telekaleidoscope
 	6 Faded Memory
 	6 Cloudscape
@@ -3791,50 +3791,50 @@
 	6 Putrid Backwood
 	6 Unruly Grasslands
 	15 Well-Meaning Mastiff
-	15 Gift-Wrapped
-	15 Collection Cabinet
+	6 Gift-Wrapped
+	15 Pristine Collector
 	15 Feathered Escort
 	15 Make It Louder
-	15 Treehome Troopers
+	6 Treehome Troopers
 	15 Head In The Clouds
 	15 Underwhelming Surprise
 	15 Blueprint Messenger
-	15 Huggable Goofball
+	6 Huggable Goofball
 	15 Pleasant Surprise
-	15 Insidious Idea
-	15 Put In Timeout
+	6 Insidious Idea
+	6 Put In Timeout
 	15 Pentapunk
 	15 Blatant Bribery
 	15 Head In The Mud
-	15 Refresh
-	6 Reconnaissance Birds
+	6 Refresh
+	6 Sky-High Recon
 	15 Mine To Keep
 	15 Amused Onlooker
 	15 Spoiled Surprise
 	15 Sentimental Mainstay
 	15 Mine To Break
 	15 Shadowy Remnant
-	15 Jagged Monstrosity
+	6 Jagged Memories
 	15 Gregarious Garcon
 	15 Indecisive Sampler
-	15 Deceitful Generosity
+	6 Deceitful Generosity
 	15 Disingenuous Friend
 	15 Face Your Fears
 	15 Lightning-Breathing Dragon
 	15 Adaman Scrounger
 	15 Mine To Burn
-	15 Desperate Brawler
+	6 Desperate Brawl
 	15 Competitive Headbutter
 	15 Face the Flames
-	15 Crumbling Wanderer
+	15 Adaman Rockstomper
 	15 Make It Faster
 	15 Stunting Pteranodon
 	15 Headway
-	15 Knock Some Sense Into You
-	15 Distraction Tactics
+	6 Knock Some Sense Into You
+	6 Distraction Tactics
 	15 Water The Roots
 	15 Face the Feast
-	15 Eyes Bigger Than Your Stomach
+	15 Golodoff Glutton
 	15 Make It Bigger
 	15 Head In The Trees
 	15 Treehome Sunreacher
@@ -3874,7 +3874,7 @@
 	15 Ruthless Bully
 	15 Cajoled Accomplice
 	15 Push Yourself
-	15 Safety Blanket
+	15 Golodoff Wanderer
 	7 Artsy Giftmaker
 	7 Hulking Repairdoll
 	7 Play-Worn Soldier
