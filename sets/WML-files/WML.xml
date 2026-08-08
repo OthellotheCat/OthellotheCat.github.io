@@ -1337,7 +1337,7 @@ Enchanted creature has haste and first strike.</text>
 			<name>Drop Point</name>
 			<text>When this enchantment enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {4}{G}: Create two 1/1 white and green Toy artifact creature tokens. Activate only as a sorcery and only once each turn.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/76.png" num="170">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/76.png" num="171">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1353,7 +1353,7 @@ Enchanted creature has haste and first strike.</text>
 		<card>
 			<name>Leafage Lineup</name>
 			<text>When this creature enters, another target creature you control gets +X/+X and trample until end of turn, where X is the number of creatures you control.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/77.png" num="182">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/77.png" num="183">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1371,7 +1371,7 @@ Enchanted creature has haste and first strike.</text>
 			<name>Leafy Launcher</name>
 			<text>Reach
 When this creature enters, if you control a creature token or face-down creature, destroy target creature with flying.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/78.png" num="183">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/78.png" num="184">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1408,7 +1408,7 @@ When this creature enters, the next land you tap for mana this turn adds an addi
 			<text>Choose one —
 • Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
 • Create two tapped 1/1 green Forest Elemental land creature tokens.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/80.png" num="171">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/80.png" num="172">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1441,7 +1441,7 @@ When this creature enters, the next land you tap for mana this turn adds an addi
 		<card>
 			<name>Natural Green Thumb</name>
 			<text>When this creature dies, you may put two +1/+1 counters divided among any number of creatures you control.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/82.png" num="188">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/82.png" num="189">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1475,7 +1475,7 @@ When this creature enters, the next land you tap for mana this turn adds an addi
 			<name>Fragrant Stinkbug</name>
 			<text>Deathtouch
 When this creature attacks or blocks, you gain 1 life.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/84.png" num="173">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/84.png" num="174">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1492,7 +1492,7 @@ When this creature attacks or blocks, you gain 1 life.</text>
 		<card>
 			<name>Honeypot</name>
 			<text>Draw a card. Create a Food token.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/85.png" num="179">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/85.png" num="180">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1544,7 +1544,7 @@ Target creature gets +3/+3 until end of turn. If you have beaten the dare, inste
 			<name>Growing Trike</name>
 			<text>{T}: Add {G}.
 {1}{G}, {T}: Put three +1/+1 counters on this creature. Activate only if you control a creature with power 4 or greater and only once.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/88.png" num="177">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/88.png" num="178">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1562,7 +1562,7 @@ Target creature gets +3/+3 until end of turn. If you have beaten the dare, inste
 			<name>Camouflaged Squad</name>
 			<text>When this creature enters, Nurture a Toy. (Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)
 {5}: Creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/89.png" num="166">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/89.png" num="167">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1616,7 +1616,7 @@ When this creature enters, create a Food token.
 		<card>
 			<name>Make Something New</name>
 			<text>Destroy target artifact or enchantment. If you were its controller, imagine 3. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/92.png" num="185">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/92.png" num="186">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1633,7 +1633,7 @@ When this creature enters, create a Food token.
 			<name>Bursting Sac</name>
 			<text>Defender
 When this creature dies, create two 1/1 black and green Insect creature tokens with flying.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/93.png" num="164">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/93.png" num="165">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1651,7 +1651,7 @@ When this creature dies, create two 1/1 black and green Insect creature tokens w
 			<name>Calming Companion</name>
 			<text>When this creature enters, create a 1/1 blue and green Fish token.
 {1}: Add {W}, {U} or {G}. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/94.png" num="165">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/94.png" num="166">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2687,7 +2687,7 @@ When this creature becomes blocked, until end of turn, it gets +1/+1 and gains t
 		<card>
 			<name>Knock Some Sense Into You</name>
 			<text>Choose target creature you control. If it is a token or face-down creature, damage it deals is doubled until end of turn. Then, it deals damage equal to its power to another target creature.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/155.png" num="180">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/155.png" num="181">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2706,7 +2706,7 @@ When this creature becomes blocked, until end of turn, it gets +1/+1 and gains t
 Enchanted creature must attack each combat if able.
 Enchanted creature must be blocked each combat if able.
 {2}{G}, Sacrifice this Aura: Creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/156.png" num="169">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/156.png" num="170">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2741,7 +2741,7 @@ Enchanted creature must be blocked each combat if able.
 Choose one. If you have beaten the dare, you may choose both —
 • You gain 3 life.
 • You gain X life, where X is the number of creatures you control.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/158.png" num="172">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/158.png" num="173">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2758,7 +2758,7 @@ Choose one. If you have beaten the dare, you may choose both —
 			<name>Golodoff Glutton</name>
 			<text>Reach, deathtouch
 When this creature enters, if your life total changed this turn, it fights up to one target creature you don&apos;t control.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/159.png" num="175">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/159.png" num="176">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2775,7 +2775,7 @@ When this creature enters, if your life total changed this turn, it fights up to
 		<card>
 			<name>Make It Bigger</name>
 			<text>Imagine 3. Then, creatures you control get +0/+3 until end of turn. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/160.png" num="184">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/160.png" num="185">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2791,7 +2791,7 @@ When this creature enters, if your life total changed this turn, it fights up to
 		<card>
 			<name>Head In The Trees</name>
 			<text>Creature tokens you control gain trample until end of turn. If you control six or more creature tokens, instead, put a trample counter on each creature token you control.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/161.png" num="178">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/161.png" num="179">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4050,7 +4050,7 @@ During your postcombat main phase, instant and sorcery spells you cast cost {X} 
 		<card>
 			<name>Mesmerizing Fractal</name>
 			<text>When this creature enters, you may pay {1}{G}. If you do, create a token copy of this creature that enters with X +1/+1 counters on it, where X is the number of Fractals you control.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/232.png" num="187">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/232.png" num="188">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4069,7 +4069,7 @@ During your postcombat main phase, instant and sorcery spells you cast cost {X} 
 			<text>Trample
 Land creatures you control get +3/+3 and have trample and vigilance.
 Whenever a noncreature land you control enters, Nurture a Forest.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/233.png" num="186">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/233.png" num="187">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4088,7 +4088,7 @@ Whenever a noncreature land you control enters, Nurture a Forest.</text>
 			<text>Trample
 When this creature enters, you gain 2 life.
 At the beginning of each end step, if your life total changed this turn, you gain 2 life and create a 1/1 black and green Insect creature token with flying.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/234.png" num="174">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/234.png" num="175">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4123,7 +4123,7 @@ At the beginning of each end step, if your life total changed this turn, you gai
 			<name>Dino Rodeo</name>
 			<text>Creatures you control with +1/+1 counters on them have vigilance and trample.
 {6}{G}{G}: Put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/236.png" num="168">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/236.png" num="169">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4140,7 +4140,7 @@ At the beginning of each end step, if your life total changed this turn, you gai
 			<name>Lasting Trauma</name>
 			<text>At the beginning of each end step, if your life total changed this turn, put a +1/+1 counter on this creature.
 When this creature dies, you gain life equal to its toughness.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/237.png" num="181">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/237.png" num="182">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4734,27 +4734,26 @@ As long as this creature is tapped, other creatures you control get +1/+0.</text
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Nature Walk</name>
-			<text>When this enchantment enters, search your library for up to three basic lands, put them onto the battlefield tapped, then shuffle.
-{G}{G}{G}, Sacrifice this enchantment: Untap each land you control. Activate only as a sorcery.</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/270.png" num="189">WML</set>
+			<name>Bottomless Stomach</name>
+			<text>Each player sacrifices each artifact, enchantment and token they control. You gain 3 life for each permanent sacrificed this way.</text>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/270.png" num="164">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>4G</manacost>
-				<cmc>5</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Growing Home</name>
 			<text>When you cast this spell, copy it for each untapped land you control.
 Draw a card, then you may put a land from your hand onto the battlefield tapped.</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/271.png" num="176">WML</set>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/271.png" num="177">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4772,7 +4771,7 @@ Draw a card, then you may put a land from your hand onto the battlefield tapped.
 			<text>Sharing {2}{G} (When this creature enters, if you paid the Sharing cost while casting, each other creature you control&apos;s text box is replaced with this creature&apos;s text box until end of turn.)
 Defender, trample
 If you control five or more other creatures, this creature gets +5/+5 and may attack as though it didn&apos;t have defender.</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/272.png" num="167">WML</set>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/272.png" num="168">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5011,224 +5010,6 @@ Whenever the enchanted player would take damage, prevent that damage, then exile
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Figment WML</name>
-			<text></text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/286.png" num="7">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Figment</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>*/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Toy WML</name>
-			<text></text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/287.png" num="3">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact Creature — Toy</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>WG</colors>
-				<coloridentity>WG</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Treasure WML</name>
-			<text></text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/288.png" num="11">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact — Treasure</type>
-				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Forest Elemental WML</name>
-			<text></text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/289.png" num="12">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Land Creature — Forest Elemental</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Appetizer WML</name>
-			<text>Flying</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/290.png" num="5">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Insect</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Spider WML</name>
-			<text>Reach</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/291.png" num="9">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Spider</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>1/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Copy WML</name>
-			<text></text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/292.png" num="1">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token</type>
-				<maintype>Token</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Entree WML</name>
-			<text>Deathtouch, lifelink</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/293.png" num="6">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Insect</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Insect Horror WML</name>
-			<text>Deathtouch, flying, lifelink</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/294.png" num="8">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Insect Horror</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>8/8</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Dinosaur WML</name>
-			<text></text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/295.png" num="4">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Dinosaur</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Dog Knight WML</name>
-			<text>Vigilance</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/296.png" num="2">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Dog Knight</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Food WML</name>
-			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/297.png" num="10">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact — Food</type>
-				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Head of the Cliques WML</name>
-			<text>At the beginning of your upkeep, discard a card. If you cannot, instead, mill a card.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/298.png" num="13">WML</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Emblem</type>
-				<maintype>Emblem</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

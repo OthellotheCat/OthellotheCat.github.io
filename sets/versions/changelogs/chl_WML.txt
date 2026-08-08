@@ -1,4 +1,25 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Bottomless Stomach added.
+
+Nature Walk removed.
+Figment removed.
+Toy removed.
+Treasure removed.
+Forest Elemental removed.
+Appetizer removed.
+Spider removed.
+Copy removed.
+Entree removed.
+Insect Horror removed.
+Dinosaur removed.
+Dog Knight removed.
+Food removed.
+Head of the Cliques removed.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Eager Gift-Stomper added.
