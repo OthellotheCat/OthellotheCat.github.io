@@ -1,4 +1,126 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Bug Burps added.
+
+Delicious! removed.
+
+Gift Table
+cost: {1}{W} => {3}{W}
+rules_text: {4}{W}, {T}: Draw a card. This ability costs {1} less for each card any player has drawn this turn. => When this artifact enters, each player draws a card.
+{4}, {T}: Draw a card. This ability costs {1} less for each card any player has drawn this turn.
+
+Walkie-Talkie
+rules_text: When this Equipment enters if it is not a token, create a token copy of it.
+Equipped creature gets +1/+1 for each other creature you control with an Equipment named Walkie-Talkie attached to it.
+Equip {1} => When this Equipment enters if it is not a token, create a token copy of it.
+Equipped creature gets +1/+1 for each other creature you control with an Equipment named Walkie-Talkie attached to it.
+Equip {1}
+A deck can have any number of cards named Walkie-Talkie in it.
+
+Frightened Steed
+pt: 2/2 => 2/3
+
+Tactical Falcon
+cost: {2}{W} => {3}{W}
+pt: 2/2 => 3/3
+
+Scold
+rules_text: Enchant target creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can't untap, or use activated abilities. => Enchant target creature
+When this Aura enters, tap enchanted creature and remove all counters from it.
+Enchanted creature loses all abilities, can't gain counters, and can't attack or block.
+
+Behavioral Analysis
+cost: {U} => {5}{U}
+rules_text: Reveal the top three cards of target player's library, then return them to the top of their library in a random order. That player may then mill three cards. If they do, they draw a card. => Target opponent mills seven cards. For each nonland card milled this way, that player may mill a card. If they don't, you draw a card.
+
+Swell Rider
+rules_text: As long as you have five or more cards in hand, this creature get +1/+1 and can't be blocked. => If you have an odd number of cards in hand, this creature can't be blocked. Otherwise, it has +1/+1.
+
+Sweet Dreams
+rules_text: Counter target creature spell. Scry 2. => Counter target creature spell. Scry 1.
+
+Swooping Crescendo
+cost: {1}{U} => {4}{U}
+rules_text: Flying
+When this creature enters, for each other creature named Swooping Crescendo you control, tap up to one target creature or artifact.
+A deck can have any number of cards named Swooping Crescendo. => Flying
+When this creature enters, tap up to X target creatures, where X is the number of creatures with flying you control.
+pt: 1/2 => 2/5
+
+Jeering Backup
+rules_text: When this creature enters, target player discards a card. Then if you discarded a card this turn, draw a card.
+Timeout — A creature you control entered this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => When this creature enters, if a player discarded a card this turn, draw a card.
+Timeout — A creature you control entered this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Hamfisted Hogger
+pt: 5/5 => 5/6
+
+Jealous Doll
+cost: {1}{B} => {2}{B}
+
+Guided Dissection
+rules_text: This spell costs {3} less if it is cast from exile.
+Exile target creature.
+Timeout — You have five or more cards in hand. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => This spell costs {3} less if it is cast from exile.
+Exile target creature.
+Timeout — You have three or more cards in hand. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Capricious Greedmonger
+cost: {2}{R} => {3}{R}
+pt: 4/2 => 5/3
+
+Heavy-Handing
+rules_text: This spell costs {2} less if it is cast from exile.
+Heavy-Handing deals 3 damage to target creature or planeswalker.
+Timeout — You have five or more cards in hand. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => This spell costs {2} less if it is cast from exile.
+Heavy-Handing deals 3 damage to target creature or planeswalker.
+Timeout — You have three or more cards in hand. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Titan Goader
+rules_text: Whenever a creature you control becomes blocked, another attacking creature gets +2/+0 until end of turn. => Whenever this creature becomes blocked, another attacking creature gets +2/+0 until end of turn.
+
+Dangerous Idea
+cost: {2}{R} => {3}{R}
+rules_text: Dangerous Idea deals 1 damage to target player, 2 damage to target creature, and 3 damage to up to one other target face-down creature. => Dangerous Idea deals 1 damage to target player, 3 damage to target creature, and 5 damage to up to one other target creature token or face-down creature.
+
+Laughing Hypocrite
+rules_text: {R}, {T}, Discard a card: You and target opponent each draw a card and discard a card. Activate only on your turn. => {R}, {T}: Target opponent discards a noncreature card. Activate only if you discarded a card this turn.
+
+Mocking Musician
+rules_text: {T}, Sacrifice this creature: Target player discards a creature card.
+Timeout — A player has drawn two or more cards this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => {T}, Sacrifice this creature: Target player discards a creature card. Activate only as a sorcery.
+Timeout — A player has drawn two or more cards this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Bribed Authority
+cost: {3}{R} => {4}{R}
+rules_text: Menace
+When this creature enters, it deals 2 damage to target player. That player discards a card. => Menace, reach
+When this creature enters, it deals 2 damage to target player. That player discards a card.
+pt: 2/3 => 2/5
+
+Drop Point
+cost: {1}{G} => {2}{G}
+rules_text: When this enchantment enters, you may search your library for a basic land card, reveal it, put it into your hand, and shuffle.
+{4}{G}: Create two 1/1 white and green Toy artifact creature tokens. Activate only as a sorcery. => When this enchantment enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{4}{G}: Create two 1/1 white and green Toy artifact creature tokens. Activate only as a sorcery and only once each turn.
+
+Reconnaissance Birds
+rules_text: Flying
+When this creature enters, scry 1. Then if you shuffled your library this turn, draw a card. => Flying
+When this creature enters, scry 2. Then if you shuffled your library this turn, draw a card.
+
+Gene, Surrounded by Terror
+rules_text: Lifelink
+Whenever a creature you control with equal or greater power than Gene enters, you may shuffle it into its owner's library. If you do not, you lose 3 life and put a +1/+1 counter on Gene.
+The first time your life total changes each turn, create a 1/2 black and green Spider creature token with reach. => Lifelink
+Whenever a creature you control with equal or greater power than Gene enters, you may shuffle it into its owner's library. If you do not, you lose 3 life and put a +1/+1 counter on Gene.
+The first time your life total changes each turn, create a 1/1 black and green Insect creature token with flying.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 No changes.

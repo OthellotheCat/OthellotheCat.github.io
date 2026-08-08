@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Concept of the Monster",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Cruel Prankster",
-        "number": 84,
+        "number": 85,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Clumsy Admirer",
-        "number": 82,
+        "number": 83,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -457,7 +457,7 @@
     },
     {
         "card_name": "Deceitful Generosity",
-        "number": 85,
+        "number": 86,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -896,8 +896,8 @@
         "position": "24"
     },
     {
-        "card_name": "Delicious!",
-        "number": 86,
+        "card_name": "Bug Burps",
+        "number": 82,
         "shape": "normal",
         "set": "WML",
         "rotated": false,

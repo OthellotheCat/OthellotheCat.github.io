@@ -3,7 +3,7 @@
 		{
 			"name": "Gift Table",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Artifact",
 			"collector_number": "16",
 			"image_uris": {
@@ -143,7 +143,7 @@
 		{
 			"name": "Tactical Falcon",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Bird",
 			"collector_number": "33",
 			"image_uris": {
@@ -243,7 +243,7 @@
 		{
 			"name": "Behavioral Analysis",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{5}{U}",
 			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
@@ -333,7 +333,7 @@
 		{
 			"name": "Swooping Crescendo",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Creature — Bird",
 			"collector_number": "76",
 			"image_uris": {
@@ -403,7 +403,7 @@
 		{
 			"name": "Jealous Doll",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Toy",
 			"collector_number": "103",
 			"image_uris": {
@@ -481,11 +481,11 @@
 			}
 		},
 		{
-			"name": "Delicious!",
+			"name": "Bug Burps",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "86",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/48.png"
 			}
@@ -613,7 +613,7 @@
 		{
 			"name": "Capricious Greedmonger",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Creature — Lizard Devil Pirate",
 			"collector_number": "127",
 			"image_uris": {
@@ -673,7 +673,7 @@
 		{
 			"name": "Dangerous Idea",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
@@ -723,7 +723,7 @@
 		{
 			"name": "Bribed Authority",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Creature — Figment Knight",
 			"collector_number": "126",
 			"image_uris": {
@@ -763,7 +763,7 @@
 		{
 			"name": "Drop Point",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "170",
 			"image_uris": {
@@ -1425,7 +1425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/142.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Figment",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/216.png"
 			}
@@ -2655,7 +2655,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Devil",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/265.png"
 			}
@@ -2665,7 +2665,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Horror Figment",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/266.png"
 			}
@@ -3208,7 +3208,7 @@
 	8 Antsy Showboater
 	8 Find Your Moment
 	8 Infested Guest
-	8 Delicious!
+	8 Bug Burps
 	8 Entree Course
 	8 Standoffish Softie
 	8 Petty Punishment
@@ -3324,7 +3324,7 @@
 	8 Antsy Showboater
 	8 Find Your Moment
 	8 Infested Guest
-	8 Delicious!
+	8 Bug Burps
 	8 Entree Course
 	8 Standoffish Softie
 	8 Petty Punishment
@@ -3441,7 +3441,7 @@
 	12 Antsy Showboater
 	12 Find Your Moment
 	12 Infested Guest
-	12 Delicious!
+	12 Bug Burps
 	12 Entree Course
 	12 Standoffish Softie
 	12 Petty Punishment
@@ -3723,7 +3723,7 @@
 	6 Antsy Showboater
 	6 Find Your Moment
 	6 Infested Guest
-	6 Delicious!
+	6 Bug Burps
 	6 Entree Course
 	6 Standoffish Softie
 	6 Petty Punishment
