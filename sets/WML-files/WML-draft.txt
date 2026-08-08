@@ -534,7 +534,7 @@
 			"name": "Gossip Girl",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
-			"type": "Creature — Human Advisor",
+			"type": "Creature — Orc Advisor",
 			"collector_number": "95",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/53.png"

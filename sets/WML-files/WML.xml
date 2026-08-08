@@ -938,7 +938,7 @@ Timeout — One or more creatures you controlled left the battlefield this turn.
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Advisor</type>
+				<type>Creature — Orc Advisor</type>
 				<maintype>Creature</maintype>
 				<manacost>5B</manacost>
 				<cmc>6</cmc>
@@ -3692,8 +3692,8 @@ When this creature enters, you may pay {1}. If you do, create a copy of another 
 		<card>
 			<name>Kukkyonan Moatguard</name>
 			<text>Vigilance, ward {1}
-If this creature would leave the battlefield, exile it instead. You may cast it for {2}{U} as long as it remains in exile.
-The first time a creature or artifact an opponent controls enters each turn, put a +1/+1 counter on this creature.</text>
+If this creature would leave the battlefield, exile it instead. You may cast it as long as it remains in exile.
+Whenever this creature or another creature enters under your control, put a +1/+1 counter on up to one target creature. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/212.png" num="57">WML</set>
 			<prop>
 				<layout>normal</layout>
