@@ -1,4 +1,48 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Eager Cake Smasher added.
+
+Eager Gift-Stomper removed.
+
+Absent-Minded Acquaintance
+rules_text: {2}: Put target card from a graveyard on the bottom of its owner's library.
+{3}: Target player mills three cards. Shuffle this creature into its owner's library. Activate only as a sorcery. => {2}: Put target card from a graveyard on the bottom of its owner's library.
+{2}, Shuffle this creature into its owner's library: Draw a card. Activate only as a sorcery.
+
+Party Planner
+cost: {1}{W}{U} => {1}{WU}{WU}
+
+Imperfection Repurposer
+cost: {1}{W}{B} => {1}{WB}{WB}
+
+Gain The Edge
+cost: {2}{G}{W} => {2}{GW}{GW}
+
+Pull At The Legs
+cost: {X}{U}{B} => {X}{UB}{UB}
+
+Flyby Razer
+cost: {3}{U}{R} => {3}{UR}{UR}
+pt: 3/4 => 4/3
+
+Explosive Entrance
+cost: {1}{B}{R} => {1}{BR}{BR}
+
+Lethargic Glutton
+cost: {3}{B}{G} => {3}{BG}{BG}
+
+Lost Hatchling
+cost: {2}{R}{G} => {2}{RG}{RG}
+
+Cooperative Builder
+cost: {3}{G}{U} => {3}{GU}{GU}
+
+Exuberant Orator
+cost: {2}{R}{W} => {2}{RW}{RW}
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Iron Stomach added.
