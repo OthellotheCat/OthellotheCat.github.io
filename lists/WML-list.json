@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Concept of the Playmate",
-        "number": 130,
+        "number": 129,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Immersion Therapist",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -152,8 +152,8 @@
         "position": "226"
     },
     {
-        "card_name": "Fresh Ideas",
-        "number": 174,
+        "card_name": "Dino Rodeo",
+        "number": 168,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Dreaming Dino",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Energizing Cheer",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Fight Rigger",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Imagine Anything",
-        "number": 141,
+        "number": 140,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Pestering Fiddler",
-        "number": 151,
+        "number": 150,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Plargg, Still Spry",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -473,7 +473,7 @@
     },
     {
         "card_name": "Distraction Tactics",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Competitive Headbutter",
-        "number": 129,
+        "number": 128,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -513,7 +513,7 @@
     },
     {
         "card_name": "Eyes Bigger Than Your Stomach",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -545,7 +545,7 @@
     },
     {
         "card_name": "Crumbling Wanderer",
-        "number": 131,
+        "number": 130,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Face the Feast",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -585,7 +585,7 @@
     },
     {
         "card_name": "Desperate Brawler",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -625,7 +625,7 @@
     },
     {
         "card_name": "Face the Flames",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -665,7 +665,7 @@
     },
     {
         "card_name": "Headway",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -705,7 +705,7 @@
     },
     {
         "card_name": "Lightning-Breathing Dragon",
-        "number": 144,
+        "number": 143,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -745,7 +745,7 @@
     },
     {
         "card_name": "Make It Faster",
-        "number": 146,
+        "number": 145,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -785,7 +785,7 @@
     },
     {
         "card_name": "Mine To Burn",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -904,12 +904,12 @@
         "position": "48"
     },
     {
-        "card_name": "Blastfire Buddy",
+        "card_name": "Bonk",
         "number": 124,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "58"
+        "position": "69"
     },
     {
         "card_name": "Appetizer Course",
@@ -944,12 +944,12 @@
         "position": "49"
     },
     {
-        "card_name": "Bonk",
+        "card_name": "Brash Buddy",
         "number": 125,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "69"
+        "position": "75"
     },
     {
         "card_name": "Believe In Yourself",
@@ -984,12 +984,12 @@
         "position": "46"
     },
     {
-        "card_name": "Brash Buddy",
+        "card_name": "Bribed Authority",
         "number": 126,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "75"
+        "position": "72"
     },
     {
         "card_name": "Bursting Sac",
@@ -1024,12 +1024,12 @@
         "position": "42"
     },
     {
-        "card_name": "Bribed Authority",
+        "card_name": "Capricious Greedmonger",
         "number": 127,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "72"
+        "position": "61"
     },
     {
         "card_name": "Calming Companion",
@@ -1064,12 +1064,12 @@
         "position": "56"
     },
     {
-        "card_name": "Capricious Greedmonger",
-        "number": 128,
+        "card_name": "Dangerous Idea",
+        "number": 131,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "61"
+        "position": "67"
     },
     {
         "card_name": "Camouflaged Squad",
@@ -1104,16 +1104,16 @@
         "position": "53"
     },
     {
-        "card_name": "Dangerous Idea",
-        "number": 132,
+        "card_name": "Dynamite Dino",
+        "number": 134,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "67"
+        "position": "68"
     },
     {
         "card_name": "Drop Point",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1144,16 +1144,16 @@
         "position": "41"
     },
     {
-        "card_name": "Dynamite Dino",
-        "number": 135,
+        "card_name": "Heavy-Handing",
+        "number": 139,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "68"
+        "position": "62"
     },
     {
         "card_name": "Earthen Admiration",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1184,16 +1184,16 @@
         "position": "38"
     },
     {
-        "card_name": "Heavy-Handing",
-        "number": 140,
+        "card_name": "Laughing Hypocrite",
+        "number": 142,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "62"
+        "position": "70"
     },
     {
         "card_name": "Fragrant Stinkbug",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1224,12 +1224,12 @@
         "position": "47"
     },
     {
-        "card_name": "Laughing Hypocrite",
-        "number": 143,
+        "card_name": "A Little Too Loud",
+        "number": 144,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "70"
+        "position": "59"
     },
     {
         "card_name": "Growing Trike",
@@ -1264,12 +1264,12 @@
         "position": "40"
     },
     {
-        "card_name": "A Little Too Loud",
-        "number": 145,
+        "card_name": "Mocking Musician",
+        "number": 147,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "59"
+        "position": "71"
     },
     {
         "card_name": "Honeypot",
@@ -1304,12 +1304,12 @@
         "position": "43"
     },
     {
-        "card_name": "Mocking Musician",
+        "card_name": "Overstuffed Cannon",
         "number": 148,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "71"
+        "position": "60"
     },
     {
         "card_name": "Leafage Lineup",
@@ -1344,12 +1344,12 @@
         "position": "51"
     },
     {
-        "card_name": "Overstuffed Cannon",
+        "card_name": "Painful Memory",
         "number": 149,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "60"
+        "position": "74"
     },
     {
         "card_name": "Leafy Launcher",
@@ -1384,12 +1384,12 @@
         "position": "44"
     },
     {
-        "card_name": "Painful Memory",
-        "number": 150,
+        "card_name": "Rambunctious Blastfire",
+        "number": 152,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "74"
+        "position": "58"
     },
     {
         "card_name": "Make Something New",

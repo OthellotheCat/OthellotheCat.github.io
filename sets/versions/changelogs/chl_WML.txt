@@ -1,4 +1,162 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Rambunctious Blastfire added.
+Dino Rodeo added.
+
+Blastfire Buddy removed.
+Fresh Ideas removed.
+
+Frightened Steed
+rules_text: When this creature enters or leaves the battlefield, surveil 1.
+Surprise {W} [i](You may pay {W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this creature enters the battlefield, you may draw a card. If you do, shuffle this creature into its owner's library.
+
+Prim Pal
+rules_text: {1}, Sacrifice this creature: Add {W}, {U} or {B}. => Vigilance
+{1}: Add {W}, {U} or {B}. Activate only once each turn.
+
+Party Popper
+rules_text: When this creature enters, you may target creature or artifact.
+When this creature leaves the battlefield, you may untap target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this creature enters, you may tap target creature or artifact.
+When this creature leaves the battlefield, you may untap target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Scold
+rules_text: Enchant target creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can't attack, block, or use activated abilities.
+Surprise {U} [i](You may pay {U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => Enchant target creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can't untap, or use activated abilities.
+
+Careless Wayfarer
+rules_text: {U}, {T}, Discard a card: Scry 1, then draw a card.
+Timeout — You have discarded two or more cards this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => {U}, {T}, Discard a card: Scry 1, then draw a card.
+
+Jeering Backup
+rules_text: When this creature enters, draw a card, then target player discards card.
+Timeout — A creature you control entered this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => When this creature enters, target player discards a card. Then if you discarded a card this turn, draw a card.
+Timeout — A creature you control entered this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+pt: 2/3 => 3/4
+
+Antagonizing Acquaintance
+rules_text: {1}, Sacrifice this creature: Add {U}, {B} or {R}. => {1}: Add {U}, {B} or {R}. Activate only once each turn.
+Timeout — An opponent controls one or more creatures. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+pt: 2/1 => 1/2
+
+Ungrateful Snob
+rules_text: Whenever you shuffle your library, target opponent loses 1 life and you gain 1 life. => The first time each turn another creature leaves the battlefield, target opponent loses 1 life and you gain 1 life.
+pt: 2/2 => 0/2
+
+Roughhouser's Revel
+rules_text: Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+As long as you have beaten the dare, attacking creatures you control have lifelink. => Attacking creatures you control have lifelink as long as they are blocked.
+
+Frightening Friend
+rules_text: {1}, Sacrifice this creature: Add {B}, {R} or {G}. => Menace
+{1}: Add {B}, {R} or {G}. Activate only once each turn.
+pt: 1/2 => 1/1
+
+A Little Too Loud
+rules_text: Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Target creature gets +2/+0 until end of turn, then deals 1 damage to any target. If you have beaten the dare, instead, it deals damage equal to its power to any target. => Target creature you control gets +1/+0 until end of turn and deals 1 damage to any two different targets.
+
+Bonk
+rules_text: Bonk deals 5 damage to target creature. Imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Bonk deals 5 damage to target creature and 2 damage to up to one target creature token or face-down creature.
+
+Brash Buddy
+cost: {R} => {2}{R}
+rules_text: {1}, Sacrifice this creature: Add {W}, {R} or {G}. => {1}: Add {W}, {R} or {G}. Activate only once each turn.
+{3}, {T}: Target creature you control gets first strike until end of turn. If it's a face-down creature, it also gets +2/+0.
+pt: 2/1 => 2/2
+
+Leafage Lineup
+rules_text: Nurture a Toy twice. [i](Put a +1/+1 counter on target Toy you control, or create a tapped 1/1 white and green Toy artifact creature token. Then do it again.)[/i]
+Target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn. => Creature two 1/1 white and green Toy artifact creature tokens. Target creature you control gets +1/+1 for each other creature you control and gains trample until end of turn.
+
+Natural Green Thumb
+rules_text: When this creature dies, Nurture a tapped Forest twice. [i](Put a +1/+1 counter on target Forest you control, or create a tapped 1/1 green Forest Elemental land creature token. Then do it again.)[/i] => When this creature dies, you may put two +1/+1 counters divided among any number of creatures you control.
+
+Fragrant Stinkbug
+rules_text: Flying
+Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+When this creature attacks or blocks, you gain 1 life. If you have beaten the dare, instead, you gain 3 life. => Flying
+When this creature attacks or blocks, you gain 1 life.
+pt: 1/3 => 1/2
+
+Calming Companion
+cost: {G} => {1}{G}
+rules_text: {1}, Sacrifice this creature: Add {W}, {U} or {G}. => When this creature enters, create a 1/1 blue and green Fish token.
+{1}: Add {W}, {U} or {G}. Activate only once each turn.
+
+Treehome Troopers
+rules_text: Vigilance
+When this creature enters, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i] => Vigilance
+When this creature enters, create a 1/1 white and green Toy artifact creature token.
+
+Reconnaissance Birds
+rules_text: Flying
+When this creature enters, scry 1.
+When this creature leaves the battlefield, draw a card.
+Surprise {U} [i](You may pay {U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => Flying
+When this creature enters, scry 1. Then if you shuffled your library this turn, draw a card.
+
+Absent-Minded Acquaintance
+rules_text: When this creature leaves the battlefield, target player shuffles.
+{2}: Put target card from a graveyard on the bottom of its owner's library.
+Surprise {0} [i](You may pay {0} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => {2}: Put target card from a graveyard on the bottom of its owner's library.
+{3}: Target player mills three cards. Shuffle this creature into its owner's library. Activate only as a sorcery.
+
+Pocket Sand
+rules_text: When this Equipment enters, you may attach it to target creature you control.
+{2}: Equipped creature can't be blocked until end of turn. Activate only once each turn.
+Equip {1}
+Surprise {0} [i](You may pay {0} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this Equipment enters, you may attach it to target creature you control.
+{3}: Remove Equipped creature from combat. Pocket Sand deals 1 damage to target attacking or blocking creature
+Equip {1}
+Surprise {0} [i](You may pay {0} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Gain The Edge
+rules_text: If an opponent has at least three more creatures than you, you may cast this spell as though it had flash.
+Nurture a Toy four times. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token. Then do it three more times.)[/i] => If an opponent has at least three more creatures than you, you may cast this spell as though it had flash.
+Create four 1/1 white and green Toy artifact creature tokens.
+
+Mudsculptor
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, choose one —
+• You may play an additional land this turn.
+• Nurture a tapped Forest. [i](Put a +1/+1 counter on target tapped Forest you control, or create a tapped 1/1 green Forest Elemental land creature token.)[/i] => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, choose one —
+• You may play an additional land this turn.
+• Nurture a Fish. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)[/i]
+
+Explosive Entrance
+rules_text: Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Destroy target blocking creature.
+Target attacking creature gets +3/+0. If you have beaten the dare, it also gains trample until end of turn. => Destroy target blocking creature.
+Until end of turn, target attacking creature gets +3/+0 and trample.
+
+Lethargic Glutton
+rules_text: Trample, lifelink
+Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+This creature can't attack or block unless your life total changed this turn or you have beaten the dare. => Trample, lifelink
+When this creature enters, create a Food token.
+This creature can't attack or block unless your life total changed this turn.
+
+Kukkyonan Moatguard
+rules_text: Vigilance, ward {1}
+This creature can't be sacrificed or shuffled into its owner's library.
+The first time a creature or artifact an opponent controls enters each turn, put a +1/+1 counter on this creature. => Vigilance, ward {1}
+If this creature would leave the battlefield, exile it instead. You may cast it for {2}{U} as long as it remains in exile.
+The first time a creature or artifact an opponent controls enters each turn, put a +1/+1 counter on this creature.
+
+Flags of Whimsy
+rules_text: {0}, {T}: Imagine X, where X is the number of cards in your hand. This ability costs {1} more to activate for each card in your hand. => When this artifact enters, choose a creature type.
+{T}: Add two mana of any color. Spend this only to cast spells or activate abilities of permanents of the chosen type.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Slippery Streamfish added.
